@@ -4,7 +4,7 @@ This post assumes basic knowledge of shared and dynamic libraries.
 
 Hunlo! Few days ago while surfing the web I discovered a blog post on an interesting env var: LD_PRELOAD.
 
-LD_PRELOAD can help you override function calls. Just that, simple. Wait can't I just re-implement those same calls in my own code? Well, yes you can. But what if you are given a static binary from some third party installation and you want to change it's behaviour in specific ways?
+LD_PRELOAD can help you override function calls. Just that, simple. Wait can't I just re-implement those same calls in my own code? Well, yes you can. But what if you are given a prebuilt binary from some third party installation and you want to change it's behaviour in specific ways?
 
 LD_PRELOAD takes in a shared object in which you can define the exact functions you want to preload. Formal man pages say:
 ```
@@ -40,6 +40,7 @@ int main() {
     read(makefile_handle, buf, 100);
     if(!errno) {
         printf("Error occurred: %d", errno);
+        close(makefile_handle);
         return 1;
     }
     printf("%s\n", buf);
@@ -112,7 +113,7 @@ Passing RTLD_NEXT instructs dlsym to find next symbol after current object. In o
 
 And finally at last we call orig_open() with pathname passed by user, so that it calls original libc open function and program does not break.
 
-That does not seem exciting? You maybe thinking I knew what file it is going to open, I manually specified it, but think about open_file being some third part library you don't have any idea about and you want to know if it accesses you super secret passwords file, well you can use this to do just that.
+That does not seem exciting? You maybe thinking I knew what file it is going to open, I manually specified it, but think about open_file being some third party library you don't have any idea about and you want to know if it accesses you super secret passwords file, well you can use this to do just that.
 
 You can also override open function to only make it open a single specific file all the time. Want to pause the world? Override gettimeofday() and return hardcoded time everytime. Want to unrandomize some application's seemingly random state? Override random() function to just return 1 always :P
 
