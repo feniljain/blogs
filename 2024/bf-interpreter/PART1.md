@@ -1,6 +1,6 @@
-# Let's write a Brainfuck Interpreter
+# Let's write a Brainfuck Interpreter: Naive Implementation
 
-This is a series where we will slowly climb up to building a JIT for a brainfuck compiler. This is the first blog in the series covering the language and a naive implementation. We try to understand everything from first principles, will try to explain reason behind every step we take, so buckle up and let's get started!
+This is a series where we will slowly climb up to building a JIT for a brainfuck compiler. This is the first blog in the series covering the language and a naive implementation. We try to understand everything from first principles, so buckle up and let's get started!
 
 ## Understanding Brainfuck Language Operators and Spec
 
@@ -197,7 +197,7 @@ We set our project name as brenphuk, set `readline` as a dependency we need, we 
 
 For main impl, what we want to do is, take input from user, go over character by character and perform operation specified by operand mentioned on that index. Let's call this core function of ours as `exec`, which will accept an `engine` struct, this struct contains our actual tape and pointer:
 
-```
+```C
 typedef struct {
   char tape[TAPE_SIZE];
   int pointer;
@@ -206,7 +206,7 @@ typedef struct {
 
 Along with engine, it will also accept a string, the program itself given as input from user.
 
-```
+```C
 int exec(engine *eng, char *prog) {
   size_t prog_len = strlen(prog);
   size_t i = 0;
@@ -218,21 +218,24 @@ int exec(engine *eng, char *prog) {
 ```
 
 Let's start adding impl of operations now, for `<`, we just want to increment engine->pointer, so it's simple as:
-```
+
+```C
 case '>':
   eng->pointer++;
   break;
 ```
 
 and it's opposite `>`:
-```
+
+```C
 case '<':
   eng->pointer--;
   break;
 ```
 
 Similarly for `+` and `-`, we want to increment value in tape on the index `pointer`:
-```
+
+```C
 case '+':
   eng->tape[eng->pointer]++;
   break;
@@ -242,7 +245,8 @@ case '-':
 ```
 
 For `,`, we want to take input and store it in currently pointed cell
-```
+
+```C
 case ',': {
   char ch;
   scanf("%c", &ch);
@@ -253,7 +257,7 @@ case ',': {
 
 and for `.`, we want to output currently pointed cell's value
 
-```
+```C
 case '.':
   printf("%c", eng->tape[eng->pointer]);
   break;
@@ -263,7 +267,8 @@ Now comes the slightly more interesting ones, loop constructs. For `[` and `]`, 
 On finding a zero on `[` operand, we have to find corresponding `]` operand, as the loops can be nested we have to keep a count of loop constructs we
 have seen, so we maintain a counter, and increment it whenever we see a `[`, and decrement when we see a `]`. When we complete at the same number we started
 our counter with, we have reached corresponding `]`. Impl for `[`, will look like:
-```
+
+```C
 case '[': {
   if (eng->tape[eng->pointer] == 0) {
     int brackets_depth = 0;
@@ -291,7 +296,8 @@ case '[': {
 ```
 
 here we use `bracket_depth` to keep track of the counter we discussed above, we start `brackets_depth` as 0, so at the end of transversing whole program if `brackets_depth` is not zero, we print out `brackets mismatch error`. Slightly, different impl for `]`:
-```
+
+```C
 case ']': {
   if (eng->tape[eng->pointer] != 0) {
     int brackets_depth = 0;
