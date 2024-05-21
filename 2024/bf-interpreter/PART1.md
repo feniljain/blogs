@@ -6,23 +6,25 @@ This is a series where we will slowly climb up to building a JIT for a brainfuck
 
 Brainfuck is a super simple language which takes the idea of a turing machine and implements it as a programming language. That means we have a tape, an array of cell where each cell contains a number, and we just move around on it operating on numbers.
 
+```
       ----------------------------------------
 Tape: |10||65||0||0||45||14||0||0||0||0||0||0|
       ----------------------------------------
                           ^
                           |
       Pointer -------------
+```
 
 Let's look at all the operators:
 
-- > : move right to next cell on tape
-- < : move left to previous cell on tape
-- + : increment the value of current cell
-- - : decrement the value of current cell
-- , : take input from user and store it in current cell
-- . : output value stored in current cell to user
-- [ : jump to matching `]`, if value is zero
-- ] : jump to matching `[`, if value is not zero
+- `>` : move right to next cell on tape
+- `<` : move left to previous cell on tape
+- `+` : increment the value of current cell
+- `-` : decrement the value of current cell
+- `,` : take input from user and store it in current cell
+- `.` : output value stored in current cell to user
+- `[` : jump to matching `]`, if value is zero
+- `]` : jump to matching `[`, if value is not zero
 
 And that's it, this is the whole language, suprisingly simple right xD
 
@@ -37,27 +39,35 @@ cases ready for our interpreter. We can build incrementally harder programs and 
 
 Super simple program: +++ , it just adds 1 to first cell thrice, so our tape would look like:
 
+```
        ----------....
  Tape: |3||0||0||
        ----------....
+```
 
 Next one: ++-, add 1 to first cell twice, and then subtract 1 from it.
 
+```
        ----------....
  Tape: |2||0||0||
        ----------....
+```
 
 Let's use `<` and `>` operators now: ++>+<-, this program first adds 1 twice to first cell, then shift to second cell, adds 1 over there, comes back to first cell and does a subtract operation. Our tape is now:
 
+```
        ----------....
  Tape: |1||1||0||
        ----------....
+```
 
 Moving to next operators `,` and `.`: ,+., this program takes input from user, stores it in first cell, adds one to it and outputs it. Let's say we pass 65 when prompted for input, our tape would look like:
 
+```
        ----------....
  Tape: |66||0||0||
        ----------....
+```
 
 and our output would be: `B`, we print ascii representations of numbers stored in cell, that's also how we get `hello world` too later down the road xD
 
@@ -70,39 +80,47 @@ Okay, let's do something serious this time: +++[-] . It's a simple program, we f
 
 After exec of `+++`:
 
+```
        ----------....
  Tape: |3||0||0||
        ----------....
+```
 
 After first iteration, we exec 4th, 5th and 6th operator in program here:
 
-[ -> value is 3, don't jump, go to next instruction
-- -> decrement value to 2
-] -> value is 2, non-zero, jump to `[`
+`[` -> value is 3, don't jump, go to next instruction
+`-` -> decrement value to 2
+`]` -> value is 2, non-zero, jump to `[`
 
+```
        ----------....
  Tape: |2||0||0||
        ----------....
+```
 
 After second iteration, we again execute 4th, 5th and 6th operator:
 
-[ -> value is 2, don't jump, go to next instruction
-- -> decrement value to 1
-] -> value is 1, non-zero, jump to `[`
+`[` -> value is 2, don't jump, go to next instruction
+`-` -> decrement value to 1
+`]` -> value is 1, non-zero, jump to `[`
 
+```
        ----------....
  Tape: |1||0||0||
        ----------....
+```
 
 After third iteration, we again execute 4th, 5th and 6th operator:
 
-[ -> value is 1, don't jump, go to next instruction
-- -> decrement value to 0
-] -> value is 0, don't jump, go to next instruction i.e. program end
+`[` -> value is 1, don't jump, go to next instruction
+`-` -> decrement value to 0
+`]` -> value is 0, don't jump, go to next instruction i.e. program end
 
+```
        ----------....
  Tape: |0||0||0||
        ----------....
+```
 
 This seems tedious to do it by hand right? No probs some humble person on internet made this for us:
 https://arkark.github.io/brainfuck-online-simulator/
@@ -113,9 +131,11 @@ Okay, now let's use loops, cell movement, etc together: >+++++++++[<++++++>-]<..
 
 Final state of tape:
 
+```
        ----------....
  Tape: |54||10||0||
        ----------....
+```
 
 Having difficulties understanding? Try the online playground I linked above and iterate slowly on each operator, you should be able to figure it out.
 (hopefully :P just kidding xD)
