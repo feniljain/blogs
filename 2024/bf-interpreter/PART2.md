@@ -298,6 +298,6 @@ Simple and easy, let's benchmark this change:
 Factor: ~2.16s
 Mandelbrot: ~5.9s
 
-And we get another round of massive speedups!
+And we get another round of massive speedups! Whole code is available at: https://github.com/feniljain/brenphuk/tree/attempt_3
 
 This is where halt our efforts for optimizations, next we are going to learn about JITs from systems perspective, how do we leverage kernel APIs to achieve JITting.
