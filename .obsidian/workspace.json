@@ -164,10 +164,12 @@
   },
   "active": "0e1357e774f9a9d8",
   "lastOpenFiles": [
-    "2025/rw_sink_consistency",
-    "2024/iceberg-snapshot/Iceberg_Snapshots.md",
     "2025/rw_sink_consistency/How does RisingWave ensure sink consistency?.md",
+    "2025/rw_sink_consistency",
     "2025",
-    "2024/iceberg-snapshot/Iceberg_snapshots_karthic.md"
+    "2024/iceberg-snapshot/Iceberg_snapshots_karthic.md",
+    "2024/iceberg-snapshot/Iceberg_Snapshots.md",
+    "2024/iceberg-snapshot",
+    "2025/rw_sink_consistency/README.md"
   ]
 }
