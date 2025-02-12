@@ -1,4 +1,4 @@
-NOTE: I am mostly writing this down to present to someone who is already familiar with the system and that's why its heavily code referential, so sorry if that's not up your alley.
+NOTE: I am mostly writing this down to present to someone who is already familiar with the system, but I have laid down some ground work to make it slightly better. Write up is also heavily code referential, so sorry if that's not up your alley.
 
 [RisingWave](https://github.com/risingwavelabs/risingwave) is a popular and open-source streaming database, it can work with a variety of different sources and sinks and has capabilities to provide performant real time analyses on streaming data along side service ad-hoc queries. Basically a lot of buzzwords.
 
