@@ -1,5 +1,7 @@
 # Understanding Zig's SMP Allocator
 
+repo snapshot: https://github.com/ziglang/zig/blob/42dbd35d3e16247ee68d7e3ace0da3778a1f5d37/lib/std/heap/SmpAllocator.zig
+
 ## Rough sketch:
 
 - Terminologies
@@ -64,3 +66,19 @@
 
 - Is this a core or not? We know for sure this does get executed by a thread but most probably a thread scheduled on that core
 - highlight exact places where thread and cores can be confused
+
+Before starting let's clear some terminology which will be used throught the blog and code, few things are confusing and I have written down their equivalent to understand them better.
+
+## Terminology:
+
+A `slab` described in code is equal to a OS `page`.
+
+There are different allocation size classes, classes being zig's `mem.Alignment` [enum](https://ziglang.org/documentation/master/std/#std.mem.Alignment).
+
+Each variant of this enum when mapped to smp allocator is called `class` or `category`.
+
+So, a `slab` will belong to a `class`, and will contain array of `class` sized elements, each of this element is called `slot`.
+
+<!-- // RECHECK(feniljain): Do we wanna keep this point about thread == core in some places? -->
+And, a thread and core are used interchangebly throughout, they are definitely not the same! But a thread gets scheduled on a core at a time, so when a thread allocates something,
+that is allocation on that core. They are used interchanbly in this sense. I will try to make sure to disambiguate this throughout the blog post.
