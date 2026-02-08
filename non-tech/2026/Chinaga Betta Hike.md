@@ -16,6 +16,8 @@ This section is also slippery at times, two of my friends survived the slip, but
 
 There's a section between flatland and this uphill where you will start seeing eucalyptus trees <INSERT PICTURE HERE>. They are beautiful with little yellow flowers on them. This gave me a feeling of walking through magic forest of berserk. If locals hadn't burnt a lot of trees, I wonder if I would have declared it Garden of Eden.
 
+![Walk through eucalyptus trees](https://github.com/user-attachments/assets/f37bebdf-a45c-4754-8f42-e6659feb884e)
+
 Also while going uphill you will notice white arrows, follow them. Though you could also just rely on the trail map you have downloaded, it was on OpenStreetMaps on IndiaHikes website so you could use any FOSS maps app to view it.
 
 Next section is flatlands, it is what the name says. I don't think it's called flatlands in any blog or something, but I am calling it that cause of minecraft biome xD This is one spot you can catch sunrise. Best would be top, but even this is fine. From here you would start getting views of surrounding area. Its serene, breathe in and get ready for the remaining part!
@@ -25,7 +27,7 @@ Now, next is walking through some part of flatlands to reach farthermost bottom 
 As you walk through the last section, you will come across two big rocks creating a narrow space between them. You have to squeeze and pass, that is also very slippery, but all I could think at that point is, if I could climb this chimney 😂
 
 Once you complete that you would reach the final vertical rock which you have to climb. There's a rope there to assist but it seemed we were the first one to reach so it was thrown above!? Not sure why would someone do that. It looks like this:
-<INSERT PICTURE HER>
+<INSERT PICTURE HERE>
 
 It doesn't look much but there's no proper footing down below, so if you slip you can get injured. And getting up is one thing, getting down is more scary unless you have someone looking at your feet and telling you where the footholds are.
 
