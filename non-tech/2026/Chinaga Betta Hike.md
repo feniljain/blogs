@@ -14,7 +14,7 @@ Next section is a where uphill starts, its through mildly dense forest, well it 
 
 This section is also slippery at times, two of my friends survived the slip, but it could get dangerous, so either wear good shoes or be extra careful where you are stepping and how you are shifting body weight. It shouldn't be a problem for most people, but extra caution is never harmful.
 
-There's a section between flatland and this uphill where you will start seeing eucalyptus trees <INSERT PICTURE HERE>. They are beautiful with little yellow flowers on them. This gave me a feeling of walking through magic forest of berserk. If locals hadn't burnt a lot of trees, I wonder if I would have declared it Garden of Eden.
+There's a section between flatland and this uphill where you will start seeing eucalyptus trees. They are beautiful with little yellow flowers on them. This gave me a feeling of walking through magic forest of berserk. If locals hadn't burnt a lot of trees, I wonder if I would have declared it Garden of Eden.
 
 <p align="center">
 <img src="https://github.com/user-attachments/assets/f37bebdf-a45c-4754-8f42-e6659feb884e" alt="Walk through eucalyptus trees" width="30%" height="30%">
@@ -29,14 +29,20 @@ Now, next is walking through some part of flatlands to reach farthermost bottom 
 As you walk through the last section, you will come across two big rocks creating a narrow space between them. You have to squeeze and pass, that is also very slippery, but all I could think at that point is, if I could climb this chimney 😂
 
 Once you complete that you would reach the final vertical rock which you have to climb. There's a rope there to assist but it seemed we were the first one to reach so it was thrown above!? Not sure why would someone do that. It looks like this:
-<INSERT PICTURE HERE>
+<p align="center">
+<img src="https://github.com/user-attachments/assets/8964e899-6041-470c-b0db-adb15a10d43b" alt="Vertical wall to climb" width="30%" height="30%">
+</p>
 
 It doesn't look much but there's no proper footing down below, so if you slip you can get injured. And getting up is one thing, getting down is more scary unless you have someone looking at your feet and telling you where the footholds are.
 
 They are also carved inside the rock, and not projecting outwards. Also part of the reason why when getting down you have to look for them. Well, getting back in our case, I was the guy who got pushed forward to climb to get rope from above. I had no safety, so my friends were a bit concerned but I was confident as I had climbed much higher rocks with much dicier footholds and handholds as compared to this in Hampi. I threw the rope down and assisted everyone else to climb above. As we reached above, we could get a much clearer view of everything around, it's a beautiful place. On one side, you are seeing mountains till eyes can reach, covered with a blanket of clouds. Next side, you see tiny settlements, with lesser hills, perfect for people to make actual small towns around. While it's not a lot of height, wind there was super strong. So if you are lean and light weight, please don't fly off xD
 
-<INSERT VIDEO HERE>
-<INSERT BLANKET OF CLOUDS HERE>
+<p align="center">
+<img src="https://github.com/user-attachments/assets/5ed9fd5c-4538-4d41-9e44-753c394e252c" alt="Amongst the clouds" width="30%" height="30%">
+</p>
+<p align="center">
+<img src="https://github.com/user-attachments/assets/3293b890-3fc6-408f-a7bb-35140ac55ff7" alt="Tiny settlements between small hills" width="30%" height="30%">
+</p>
 
 We had a dog guide us the whole time, she was so cute and playful, unfortunately she disappeared when we completed the hike, so we couldn't treat her :( We also could not carry her to to topmost section as that was a climb on a straight rock. It wasn't the biggest but not possible for us to do with a dog.
 
@@ -46,4 +52,4 @@ And that's it on the way back we tried Pavithra Idli Hotel's Benne thatte idili,
 
 And that's it, enjoy and have a nice trip.
 
-References: <INSERT INDIANHIKES LINK>
+References: https://indiahikes.com/documented-trek/chinaga-betta-trek
