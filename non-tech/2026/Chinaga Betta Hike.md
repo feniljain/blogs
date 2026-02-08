@@ -16,7 +16,9 @@ This section is also slippery at times, two of my friends survived the slip, but
 
 There's a section between flatland and this uphill where you will start seeing eucalyptus trees <INSERT PICTURE HERE>. They are beautiful with little yellow flowers on them. This gave me a feeling of walking through magic forest of berserk. If locals hadn't burnt a lot of trees, I wonder if I would have declared it Garden of Eden.
 
-![Walk through eucalyptus trees](https://github.com/user-attachments/assets/f37bebdf-a45c-4754-8f42-e6659feb884e)
+<p align="center">
+<img src="https://github.com/user-attachments/assets/f37bebdf-a45c-4754-8f42-e6659feb884e" alt="Walk through eucalyptus trees" width="30%" height="30%">
+</p>
 
 Also while going uphill you will notice white arrows, follow them. Though you could also just rely on the trail map you have downloaded, it was on OpenStreetMaps on IndiaHikes website so you could use any FOSS maps app to view it.
 
