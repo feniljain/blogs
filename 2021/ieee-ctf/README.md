@@ -185,4 +185,3 @@ ReactDOM.render(
 ```
 
 And wow that’s all done, it may look a bit simple now, but try it with enough data and it looks as awesome as the given globe we had in CTF. Isn’t that awesome? If you like the CTF UI/UX and are curious how it was built, check out our repo [here](https://github.com/IEEE-VIT/CTF-Frontend). A big shoutout to package's maintainer [vasturiano](https://github.com/vasturiano). If you like his and our work with CTF frontend and globe, do leave a :star: on both of the repositories.
-
