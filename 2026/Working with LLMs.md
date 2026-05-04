@@ -81,7 +81,7 @@ It was interesting to think about these things while writing this article down. 
 
 Footnotes:
 
-[1] https://bcantrill.dtrace.org/2026/04/12/the-peril-of-laziness-lost/
-[2] https://antirez.com/news/164
-[3] https://github.com/redis/redis/pull/15162
-[4] https://oxide-and-friends.transistor.fm/episodes/engineering-rigor-in-the-llm-age
+- (1) https://bcantrill.dtrace.org/2026/04/12/the-peril-of-laziness-lost/
+- (2) https://antirez.com/news/164
+- (3) https://github.com/redis/redis/pull/15162
+- (4) https://oxide-and-friends.transistor.fm/episodes/engineering-rigor-in-the-llm-age
