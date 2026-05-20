@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "0aec98ed45d6e8f1",
+        "id": "936cede21d157f69",
         "type": "tabs",
         "children": [
           {
-            "id": "a05f247bbaef80d1",
+            "id": "2d1a19caf016591c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2026/Working with LLMs.md",
+                "file": "2026/Upgrading neovim to 0.12.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Working with LLMs"
+              "title": "Upgrading neovim to 0.12"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "54828af172104d6e",
@@ -165,12 +164,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a05f247bbaef80d1",
+  "active": "2d1a19caf016591c",
   "lastOpenFiles": [
-    "2023/ll-hls-in-depth/README.md",
-    "2026/Working with LLMs.md",
-    "2023/hls-in-depth/README.md",
     "2026/[WIP] NDVs for estimating equality filter selectivity.md",
+    "2026/Upgrading neovim to 0.12.md",
+    "2026/Working with LLMs.md",
+    "2023/ll-hls-in-depth/README.md",
+    "2023/hls-in-depth/README.md",
     "non-tech/2026/ClaudeHeads.md",
     "non-tech/2026/Chinaga Betta Hike.md",
     "2021/ieee-ctf/README.md",
