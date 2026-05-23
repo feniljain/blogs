@@ -3,8 +3,8 @@ tech: false
 draft: false
 slug: 'chinaga-betta-hike'
 title: 'Chinaga Betta Hike'
-publishedOn: '08-02-2026'
-lastEditedOn: '23-05-2026'
+publishedOn: '2026-02-08'
+lastEditedOn: '2026-05-23'
 ---
 
 Chinaga betta is a nice little day hike bear Bengaluru. It is said to be 2.1 kms one side, so in total of 4.2 kms up and down. It's a simple hike, can be done with family and friends. I recently got to visiti it and I am gonna mention how was the experience. First thing is it needs permit, so book it from arayna vihaara [website](https://aranyavihaara.karnataka.gov.in/). Choose a convenient slot, in my time it was just 6 AM to 6:30 AM. This is needed cause it's said that a forest ranger will accompany you to the top, I say it that way, cause surprise surprise there was no one when we reached there.
