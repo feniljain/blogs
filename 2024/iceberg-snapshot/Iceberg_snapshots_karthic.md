@@ -1,3 +1,9 @@
+---
+tech: true
+draft: true
+slug: 'iceberg-snapshots-karthic'
+---
+
 ### Snapshot Creation and Time Travel in Apache Iceberg
 
 
