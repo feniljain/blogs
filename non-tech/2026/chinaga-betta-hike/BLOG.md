@@ -25,9 +25,7 @@ This section is also slippery at times, two of my friends survived the slip, but
 
 There's a section between flatland and this uphill where you will start seeing eucalyptus trees. They are beautiful with little yellow flowers on them. This gave me a feeling of walking through magic forest of berserk. If locals hadn't burnt a lot of trees, I wonder if I would have declared it Garden of Eden.
 
-<p align="center">
-<img src="../../assets/blogs/chinaga-betta-hike/walk-through-eucalyptus-trees.jpeg" alt="Walk through eucalyptus trees" width="30%" height="30%">
-</p>
+![Walk through eucalyptus trees](../../assets/blogs/chinaga-betta-hike/walk-through-eucalyptus-trees.jpeg)
 
 Also while going uphill you will notice white arrows, follow them. Though you could also just rely on the trail map you have downloaded, it was on OpenStreetMaps on IndiaHikes website so you could use any FOSS maps app to view it.
 
@@ -38,20 +36,14 @@ Now, next is walking through some part of flatlands to reach farthermost bottom 
 As you walk through the last section, you will come across two big rocks creating a narrow space between them. You have to squeeze and pass, that is also very slippery, but all I could think at that point is, if I could climb this chimney 😂
 
 Once you complete that you would reach the final vertical rock which you have to climb. There's a rope there to assist but it seemed we were the first one to reach so it was thrown above!? Not sure why would someone do that. It looks like this:
-<p align="center">
-<img src="../../assets/blogs/chinaga-betta-hike/vertical-wall-to-climb.jpeg" alt="Vertical wall to climb" width="30%" height="30%">
-</p>
+![Vertical wall to climb](../../assets/blogs/chinaga-betta-hike/vertical-wall-to-climb.jpeg)
 
 It doesn't look much but there's no proper footing down below, so if you slip you can get injured. And getting up is one thing, getting down is more scary unless you have someone looking at your feet and telling you where the footholds are.
 
 They are also carved inside the rock, and not projecting outwards. Also part of the reason why when getting down you have to look for them. Well, getting back in our case, I was the guy who got pushed forward to climb to get rope from above. I had no safety, so my friends were a bit concerned but I was confident as I had climbed much higher rocks with much dicier footholds and handholds as compared to this in Hampi. I threw the rope down and assisted everyone else to climb above. As we reached above, we could get a much clearer view of everything around, it's a beautiful place. On one side, you are seeing mountains till eyes can reach, covered with a blanket of clouds. Next side, you see tiny settlements, with lesser hills, perfect for people to make actual small towns around. While it's not a lot of height, wind there was super strong. So if you are lean and light weight, please don't fly off xD
 
-<p align="center">
-<img src="../../assets/blogs/chinaga-betta-hike/amongst-the-clouds.jpeg" alt="Amongst the clouds" width="30%" height="30%">
-</p>
-<p align="center">
-<img src="../../assets/blogs/chinaga-betta-hike/tiny-settlements-between-hills.jpeg" alt="Tiny settlements between small hills" width="30%" height="30%">
-</p>
+![Amongst the clouds](../../assets/blogs/chinaga-betta-hike/amongst-the-clouds.jpeg)
+![Tiny settlements between small hills](../../assets/blogs/chinaga-betta-hike/tiny-settlements-between-hills.jpeg)
 
 We had a dog guide us the whole time, she was so cute and playful, unfortunately she disappeared when we completed the hike, so we couldn't treat her :( We also could not carry her to to topmost section as that was a climb on a straight rock. It wasn't the biggest but not possible for us to do with a dog.
 
