@@ -6,5 +6,5 @@ slug: 'hls-in-depth'
 
 ## External Link
 
-https://dyte.io/blog/hls-in-depth/
-https://archive.is/5KpDT
+- https://dyte.io/blog/hls-in-depth/
+- https://archive.is/5KpDT
