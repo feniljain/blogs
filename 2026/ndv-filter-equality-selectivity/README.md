@@ -1,7 +1,7 @@
 ---
 tech: true
 draft: false
-slug: 'ndvs-filter-equality-selectivity'
+slug: 'ndv-filter-equality-selectivity'
 ---
 
 Now that I work on databases, I have a habit of keeping up with upstream datafusion PRs. Today I noticed an interesting PR talking about usage of NDVs in equality filter selectivity. I have always been fascinated by NDVs cause my colleagues in planner team always mention them as something super helpful. I started looking into the PR and it turned out to be a small one, but there was a review on it and honestly I did not understand it at all. So I sat down to do some reading on how this works.
