@@ -2,6 +2,9 @@
 tech: false
 draft: false
 slug: 'claude-heads'
+title: 'ClaudeHeads'
+publishedOn: '04-09-2026'
+lastEditedOn: '23-05-2026'
 ---
 
 So firstly what are ClaudeHeads? They are people who have claude in place of their head. They literally think LLM is the only answer and can only think using them, they are just straight up bad at individual thinking, but that doesn't matter, cause LLM can solve everything given right context, given all the information in the world about thing which exists.

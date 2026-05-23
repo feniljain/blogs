@@ -2,6 +2,9 @@
 tech: true
 draft: false
 slug: 'iceberg-snapshots'
+title: 'Understanding Snapshots in Apache Iceberg'
+publishedOn: '12-02-2025'
+lastEditedOn: '23-05-2026'
 ---
 
 ## External Link
