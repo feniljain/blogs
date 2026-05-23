@@ -3,8 +3,8 @@ tech: true
 draft: false
 slug: 'llhls-in-depth'
 title: 'LL-HLS in depth'
-publishedOn: '01-01-2024'
-lastEditedOn: '23-05-2026'
+publishedOn: '2024-01-01'
+lastEditedOn: '2026-05-23'
 ---
 
 ## External Link

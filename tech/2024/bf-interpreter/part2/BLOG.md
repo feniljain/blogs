@@ -3,8 +3,8 @@ tech: true
 draft: false
 slug: 'brainfuck-jit-interpreter-2'
 title: 'Lets write a Brainfuck Interpreter: Optimizations'
-publishedOn: '26-05-2024'
-lastEditedOn: '23-05-2026'
+publishedOn: '2024-05-26'
+lastEditedOn: '2026-05-23'
 ---
 
 In last part, we wrote a naive implementation of brainfuck, which is pain-stakingly slow, let's try to optimize it, we will majorly discuss two major

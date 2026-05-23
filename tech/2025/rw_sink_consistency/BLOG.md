@@ -3,8 +3,8 @@ tech: true
 draft: false
 slug: 'risingwave-sink-consistency'
 title: 'Sink consistency in RisingWave'
-publishedOn: '12-02-2025'
-lastEditedOn: '23-05-2026'
+publishedOn: '2025-02-12'
+lastEditedOn: '2026-05-23'
 ---
 
 NOTE: I am mostly writing this down to present to someone who is already familiar with the system, but I have laid down some ground work to make it slightly better. Write up is also heavily code referential, so sorry if that's not up your alley.

@@ -3,8 +3,8 @@ tech: true
 draft: false
 slug: 'iceberg-snapshots'
 title: 'Understanding Snapshots in Apache Iceberg'
-publishedOn: '12-02-2025'
-lastEditedOn: '23-05-2026'
+publishedOn: '2025-02-12'
+lastEditedOn: '2026-05-23'
 ---
 
 ## External Link
