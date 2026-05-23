@@ -1,3 +1,9 @@
+---
+tech: true
+draft: false
+slug: 'risingwave-sink-consistency'
+---
+
 NOTE: I am mostly writing this down to present to someone who is already familiar with the system, but I have laid down some ground work to make it slightly better. Write up is also heavily code referential, so sorry if that's not up your alley.
 
 [RisingWave](https://github.com/risingwavelabs/risingwave) is a popular and open-source streaming database, it can work with a variety of different sources and sinks and has capabilities to provide performant real time analyses on streaming data along side service ad-hoc queries. Basically a lot of buzzwords.
@@ -6,7 +12,7 @@ I have grown interest into the system and was trying to understand how it preven
 
 One of the good features of iceberg is it's decoupling between data files and metadata files. One can take existing parquet files and create a table out of them easily. Work for the [same](https://github.com/apache/iceberg-rust/issues/932) is active in iceberg-rust. Even when comitting iceberg writers do the same, write data files first and then try to write metadata files, if they fail (they may fail cause another writer's commit would cause ACID guarantees to fail on table) they just have to re-generate metadata files and try to commit again.
 
-So writing data files vs committing are separate processes, same happens in iceberg-rs and hence RisingWave, for iceberg sink these are the locations where each occurs:  
+So writing data files vs committing are separate processes, same happens in iceberg-rs and hence RisingWave, for iceberg sink these are the locations where each occurs:
 - Writing happens under `IcebergSinkWriter` [here](https://github.com/risingwavelabs/risingwave/blob/1a6eb0001c806c547de129d4cf66035ec66e4fe1/src/connector/src/sink/iceberg/mod.rs#L863)
 - Commiting happens [here](https://github.com/risingwavelabs/risingwave/blob/1a6eb0001c806c547de129d4cf66035ec66e4fe1/src/connector/src/sink/iceberg/mod.rs#L1208)
 
@@ -20,7 +26,7 @@ Now our doubt was what if RisingWave compute node crashes before commit happens.
 - `truncate` , increments read offset in log
 - `rewind` , decrements read offset in log
 
-These methods are used along side RisingWave's internal global clock to make sure no data is lost. Hierarchy of internal clock looks like this:  
+These methods are used along side RisingWave's internal global clock to make sure no data is lost. Hierarchy of internal clock looks like this:
 
 - `barriers` every configurable ms, configurable using `barrier_interval_ms` in system params
 - `checkpoints` every N barriers, configurable using `checkpoint_frequency` system param
@@ -30,7 +36,7 @@ So we can keep reading data async on every barrier using `next_item` and keep�
 
 Let's see what happens for iceberg sink:
 
-Firstly, how `LogReader` relates to our iceberg writer. `LogReader` is used by `LogSinker` , in our case `DecoupleCheckpointLogSinker` [here](https://github.com/risingwavelabs/risingwave/blob/5dcc141cf86b5b41e7e6965ac7ec840c73aad247/src/connector/src/sink/decouple_checkpoint_log_sink.rs#L80) and that finally calls:  
+Firstly, how `LogReader` relates to our iceberg writer. `LogReader` is used by `LogSinker` , in our case `DecoupleCheckpointLogSinker` [here](https://github.com/risingwavelabs/risingwave/blob/5dcc141cf86b5b41e7e6965ac7ec840c73aad247/src/connector/src/sink/decouple_checkpoint_log_sink.rs#L80) and that finally calls:
 
 - For writing:  `write_batch` [here](https://github.com/risingwavelabs/risingwave/blob/5dcc141cf86b5b41e7e6965ac7ec840c73aad247/src/connector/src/sink/decouple_checkpoint_log_sink.rs#L138)
 - For committing: `commit` [here](https://github.com/risingwavelabs/risingwave/blob/1a6eb0001c806c547de129d4cf66035ec66e4fe1/src/meta/src/manager/sink_coordination/coordinator_worker.rs#L272), this follows central clock of barriers

@@ -1,3 +1,9 @@
+---
+tech: true
+draft: true
+slug: 'libuv-io-uring'
+---
+
 # [Draft] Exploring libuv's io_uring integration
 
 Recently, an interesting PR got merged in libuv: https://github.com/libuv/libuv/pull/3952, it's about adding io_uring support. This PR sparked relatively wider attention cause io_uring is known for it's performant unified APIs around file and networking operations. This support could provide some really good performance benefits over different projects including v8, chrome's javascript engine powering chrome and nodejs.
