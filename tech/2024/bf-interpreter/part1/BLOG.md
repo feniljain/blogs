@@ -3,8 +3,8 @@ tech: true
 draft: false
 slug: 'brainfuck-jit-interpreter-1'
 title: 'Lets write a Brainfuck Interpreter: Naive Implementation'
-publishedOn: '21-05-2024'
-lastEditedOn: '23-05-2026'
+publishedOn: '2024-05-21'
+lastEditedOn: '2026-05-23'
 ---
 
 This is a series where we will slowly climb up to building a JIT for a brainfuck compiler. This is the first blog in the series covering the language and a naive implementation. We try to understand everything from first principles, so buckle up and let's get started!

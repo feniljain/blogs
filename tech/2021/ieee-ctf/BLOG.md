@@ -3,8 +3,8 @@ tech: true
 draft: false
 slug: '3d-globe'
 title: 'How to build a cool 3D globe in pure js?'
-publishedOn: '21-03-2021'
-lastEditedOn: '23-05-2026'
+publishedOn: '2021-03-21'
+lastEditedOn: '2026-05-23'
 ---
 
 <p>In this blog we will see how to make a cool looking globe like one shown in banner photo with different flavours and cutomizations for same</p>
