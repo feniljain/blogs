@@ -203,7 +203,7 @@ We set our project name as brenphuk, set `readline` as a dependency we need, we 
 
 For main impl, what we want to do is, take input from user, go over character by character and perform operation specified by operand mentioned on that index. Let's call this core function of ours as `exec`, which will accept an `engine` struct, this struct contains our actual tape and pointer:
 
-```C
+```c
 typedef struct {
   char tape[TAPE_SIZE];
   int pointer;
@@ -212,7 +212,7 @@ typedef struct {
 
 Along with engine, it will also accept a string, the program itself given as input from user.
 
-```C
+```c
 int exec(engine *eng, char *prog) {
   size_t prog_len = strlen(prog);
   size_t i = 0;
@@ -225,7 +225,7 @@ int exec(engine *eng, char *prog) {
 
 Let's start adding impl of operations now, for `<`, we just want to increment engine->pointer, so it's simple as:
 
-```C
+```c
 case '>':
   eng->pointer++;
   break;
@@ -233,7 +233,7 @@ case '>':
 
 and it's opposite `>`:
 
-```C
+```c
 case '<':
   eng->pointer--;
   break;
@@ -241,7 +241,7 @@ case '<':
 
 Similarly for `+` and `-`, we want to increment value in tape on the index `pointer`:
 
-```C
+```c
 case '+':
   eng->tape[eng->pointer]++;
   break;
@@ -252,7 +252,7 @@ case '-':
 
 For `,`, we want to take input and store it in currently pointed cell
 
-```C
+```c
 case ',': {
   char ch;
   scanf("%c", &ch);
@@ -263,7 +263,7 @@ case ',': {
 
 and for `.`, we want to output currently pointed cell's value
 
-```C
+```c
 case '.':
   printf("%c", eng->tape[eng->pointer]);
   break;
@@ -274,7 +274,7 @@ On finding a zero on `[` operand, we have to find corresponding `]` operand, as 
 have seen, so we maintain a counter, and increment it whenever we see a `[`, and decrement when we see a `]`. When we complete at the same number we started
 our counter with, we have reached corresponding `]`. Impl for `[`, will look like:
 
-```C
+```c
 case '[': {
   if (eng->tape[eng->pointer] == 0) {
     int brackets_depth = 0;
@@ -303,7 +303,7 @@ case '[': {
 
 here we use `bracket_depth` to keep track of the counter we discussed above, we start `brackets_depth` as 0, so at the end of transversing whole program if `brackets_depth` is not zero, we print out `brackets mismatch error`. Slightly, different impl for `]`:
 
-```C
+```c
 case ']': {
   if (eng->tape[eng->pointer] != 0) {
     int brackets_depth = 0;
