@@ -2,6 +2,9 @@
 tech: true
 draft: false
 slug: 'neovim-v12'
+title: 'Upgrading to neovim 0.12'
+publishedOn: '20-05-2026'
+lastEditedOn: '23-05-2026'
 ---
 
 I recently upgraded my neovim to 0.12.2, I have been chipping away at it slowly using `NVIM_APPNAME` feature so that my day to day activities are not hindered. One of the things I found interesting in using `NVIM_APPNAME` is, I saw a blog where author manually create all the `~/.local/share/nvim-next` etc dirs, I did the same cause I was not aware, but later I realized that one can literally just say `NVIM_APPNAME=nvim-next ~/.local/share/bob/0.12/bin/nvim` and neovim will automatically make all those dirs for you. Also yes, I use awesome [bob-nvim](https://github.com/MordechaiHadad/bob) for managing neovim versions. With that out of the way, lets get started!

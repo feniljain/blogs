@@ -2,6 +2,9 @@
 tech: true
 draft: false
 slug: 'faster-shell-boot'
+title: 'Faster shell boot times'
+publishedOn: '19-01-2024'
+lastEditedOn: '23-05-2026'
 ---
 
 ## Optimizing My Shell Startup Times

@@ -2,6 +2,9 @@
 tech: true
 draft: false
 slug: 'working-with-llms'
+title: 'Working with LLMs'
+publishedOn: '05-05-2026'
+lastEditedOn: '23-05-2026'
 ---
 
 As we usher in this new era of LLMs, it is interesting to see how different people are starting to work with them. And as a typical keyboard thudding monkey, I want to optimize my workflow too. Because a true master understands tools at it his/her disposal the best.

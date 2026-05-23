@@ -2,9 +2,10 @@
 tech: true
 draft: false
 slug: 'ld-preload-1'
+title: 'Understanding LD_PRELOAD'
+publishedOn: '23-10-2023'
+lastEditedOn: '23-05-2026'
 ---
-
-# Understanding LD_PRELOAD
 
 This post assumes basic knowledge of shared and dynamic libraries.
 
