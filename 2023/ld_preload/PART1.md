@@ -30,7 +30,7 @@ They all achieve the same goal of overriding functions. Internet wise man said: 
 I am using a linux box on my mac, you can use any linux system/emulator, etc. It should work the same everywhere.
 We will make a program which opens a given file, reads few starting bytes, closes it and quits. For our main program, it should look something like this:
 
-```C
+```c
 #include <stdio.h>
 #include <unistd.h>
 #include <fcntl.h>
@@ -66,7 +66,7 @@ You can use any compiler/compiler driver to make a simple executable. Running ab
 
 We will use this program to do just that:
 
-```C
+```c
 #define _GNU_SOURCE
 #include <dlfcn.h>
 #include <stdio.h>
@@ -85,7 +85,7 @@ int open(const char *pathname, int flags, ...) {
 A lot of jargon, don't worry about it, for now, just follow me, we will understand the code after seeing something cool xD
 Let's compile this program using:
 
-```C
+```c
 gcc -shared -fPIC override_open.c -o override_open
 ```
 
