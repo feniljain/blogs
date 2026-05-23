@@ -1,3 +1,9 @@
+---
+tech: true
+draft: true
+slug: 'brainfuck-jit-interpreter-3'
+---
+
 # JITs from systems perspective
 
 NOTE: This tutorial assumes you are working on a linux x86_64 machine. Tho it's not hard to replicate the same results using listed resources in blog.

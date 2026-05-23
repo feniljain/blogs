@@ -1,3 +1,9 @@
+---
+tech: true
+draft: false
+slug: 'working-with-llms'
+---
+
 As we usher in this new era of LLMs, it is interesting to see how different people are starting to work with them. And as a typical keyboard thudding monkey, I want to optimize my workflow too. Because a true master understands tools at it his/her disposal the best.
 
 The way I currently work with them is straight forward way popularized by Claude Code, plan with it first in plan mode, then jump into implementation. I try to manually approve everything, but still I lose context in the "hit enter" hell. To over come it, I sometimes just let it make all the changes and then go back and start editing it. Now, ideally this should work, you plan meticulously and once the plan is solid, bang on, all code will be perfect. Right? Right?
@@ -54,15 +60,15 @@ Now that we have everyone's workflows in place, let's try to come back to our qu
 3. Now this is a tricky one, one needs to slow down, we slowed down once in the initial planning phase, but when next? In the iterative cycle I mentioned above, how do we slow down during the actual implementation section to notice these frictions? Well one way is converting into OldieGoldie, it is slow but definitely works! Though one could be lost completely in implementation details and want to complete it fast, which would lead us to the pre-LLM era problem of people writing absolute horrendous code without respecting any abstractions.
 
 	 So, completely automated is bad, completely hand written is dicey, then Strategist wins? Well, I don't think so, again this is a point about slowing down, fancy autocompletes are not a great way to slow down and understand cross module dependencies. Well then what? I like Antirez's way here, seemingly he generated all code first as a PoC, realized few things during PoC to fix, re-generated it, assumed just reading everything in extreme detail would help but he didn't know the answer to: `but still things that superficially work do not mean they are optimal`. So he went back and rewrote whole implementation in a mix of manual and AI-assisted mode.
-	 
+
 	 The difference between Strategist and this is using code as a throw-away signal, Antirez used the first version as a PoC, that's it. He then, rewrote the implementation in his own way completely, this makes the process so much faster and more context aware than one shotting the implementation and making abstractions etc on the fly.
-	
+
 4. For this point, Antirez said two things:
 	- "Everything was working, and this type has massive testing, thanks, again to AI"
 	- "When this stage was done, I started, during the third month, to stress test the implementation in many different ways."
-	
+
 	I don't think there's info on what he did here. As such testing is a very subjective topic and how to do it properly for a particular system is a monster of its own. For now, I try to follow the same procedure as before, try to come up with test cases myself and then involve LLMs to expand upon them on their own and combine to form a better list. This helps avoid a bunch of test cases which add 1K lines of abstractions on their own to test a simple thing.
-	
+
 5. For this one, I think 3rd point above goes in enough details about everything. Key to this point I believe is slowing down and reading code multiple times to try and think from different angles.
 
 This kinda also lays out how I want to try using LLMs going forward.
