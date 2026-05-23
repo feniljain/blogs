@@ -26,7 +26,7 @@ So do we make a kind of caching mechanism to store just for the inner loops? Tec
 
 We make an array as big as program size and fill it in with -1 values, at exact index of loop operands we will fill in it's corresponding loop operands index. So we create two arrays: `open_brackets_loc` and `close_brackets_loc`. Now just before entering the core loop of `exec` we call a new function called `fill_brackets_loc`, this takes in program and it's length and calculates all brackets location along with filling them in our arrays. Implementation is simple, we find a `[` and maintain a counter till we find corresponding `]`, same as what we did in last blogpost, but we will only do it once this time, at the very start. Code looks like this:
 
-```C
+```c
 void fill_brackets_loc(char *prog, int prog_len) {
   int i = 0, next_open_bracket_loc = -1;
 
@@ -75,7 +75,7 @@ We can even do one better by also storing each `[]` identified when transversing
 
 Now our `[` handler in `exec` looks like this:
 
-```C
+```c
 case '[':
   if (tape[pointer] == 0) {
     int idx = open_brackets_loc[i];
@@ -94,7 +94,7 @@ We directly look up the location of corresponding loop operanding and jump!
 
 same for `]`:
 
-```C
+```c
 case ']': {
   if (tape[pointer] != 0) {
     int idx = close_brackets_loc[i];
@@ -120,7 +120,7 @@ That's some big gains from a simple observation! But wait we have more :)
 
 Before this occurs, I made a small change to our core `exec`, instead of using characters I am using enum variants for identifying each character, it's essentially the same thing as before just different representation. For the coversion between character operations and enum variants I wrote a simple `parse` function:
 
-```C
+```c
 enum Op_type {
   INVALID = 0,
   FWD,
@@ -180,7 +180,7 @@ void parse(char *prog, int prog_len) {
 
 Now an interesting optimization I have seen done in Bytecode Interpreters is combining instructions when they occur together way too often. This could happen with same or different instructions too. I learnt about this first time while completing (Crafting interpreters)[https://craftinginterpreters.com/] an amazing book by Bob Nystorm. So let's try to find if it is possible to combine any instructions in our case. We add an array with size of `[number of instructions][number of instructions]`. This is because we want to check how each instruction relates with other ones. At the end of parse function we add this code to make it record op_assoc:
 
-```C
+```c
 ops[++ops_len] = op;
 if (ops_len > 0) {
     // This logic simply tries to unite op_assoc[1][5]
@@ -224,7 +224,7 @@ DEBUG: op_assoc[8][8]: 32
 
 Highest oens are (2, 2), (1, 1), so repeating instructions, specifically `>`, `<`, these should be easy to club. Let's do just that, we will add a `repeat` field for each operation which will store how many times does the operation repeat. After this we can make exec function increment values by `repeat`'s value instead of just 1, after this change our `exec` function looks like this:
 
-```C
+```c
 int exec(char *prog, int prog_len) {
   DBG_PRINT(prog);
   int i = 0, val;

@@ -70,7 +70,7 @@ Next let's talk a bit about virtual memory and get some intuition around where c
 
 Let's write a small C program which again prints a simple "hello world :)"
 
-```C
+```c
 #include <stdio.h>
 
 int main () {
