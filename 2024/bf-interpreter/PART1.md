@@ -1,3 +1,9 @@
+---
+tech: true
+draft: false
+slug: 'brainfuck-jit-interpreter-1'
+---
+
 # Let's write a Brainfuck Interpreter: Naive Implementation
 
 This is a series where we will slowly climb up to building a JIT for a brainfuck compiler. This is the first blog in the series covering the language and a naive implementation. We try to understand everything from first principles, so buckle up and let's get started!

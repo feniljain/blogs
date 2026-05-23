@@ -1,3 +1,9 @@
+---
+tech: true
+draft: false
+slug: '3d-globe'
+---
+
 # CTF-Frontend
 
 # How to build a cool 3D globe in pure js?

@@ -1,3 +1,9 @@
+---
+tech: false
+draft: false
+slug: 'claude-heads'
+---
+
 So firstly what are ClaudeHeads? They are people who have claude in place of their head. They literally think LLM is the only answer and can only think using them, they are just straight up bad at individual thinking, but that doesn't matter, cause LLM can solve everything given right context, given all the information in the world about thing which exists.
 
 For me this is a problem. I joined database industry cause I could not bear writing HTTP APIs for the rest of my life. I am not smart enough personally, but there are horrible software engineers out there, you would find shitty code in all parts of the software stack. But for something which is performance critical, needs to correct always, and is always the black box for programmers, that would need highest and purest levels of programmers, right right??? Well it seems I could only enjoy this dream for sometime, cause LLMs have given birth to ClaudeHeads. We use an open source project named datafusion and have based our database on it. Its not a direct stock integration, we have had to make a lot of changes according to our needs, and it seems distribution is still an unsolved problem there. Also main IP of planner stays with us, single execution is not a solved problem, but open source projects are very very good!

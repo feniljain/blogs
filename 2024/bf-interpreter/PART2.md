@@ -1,3 +1,9 @@
+---
+tech: true
+draft: false
+slug: 'brainfuck-jit-interpreter-2'
+---
+
 # Let's write a Brainfuck Interpreter: Optimizations
 
 In last part, we wrote a naive implementation of brainfuck, which is pain-stakingly slow, let's try to optimize it, we will majorly discuss two major

@@ -1,3 +1,9 @@
+---
+tech: false
+draft: false
+slug: 'writing-more'
+---
+
 ## Writing more
 
 I recently saw a twitter account whose tag line was "producing more than consuming". This got me thinking about everything I have read over the year about writing. All the blogs claiming writing is thinking, it allows for better thought. Whilst I have personally experienced it slightly while writing a blog about HTTP livestreaming protocols, I never got around to doing it consistently.

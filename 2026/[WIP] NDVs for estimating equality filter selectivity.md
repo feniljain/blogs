@@ -1,3 +1,9 @@
+---
+tech: true
+draft: false
+slug: 'ndvs-filter-equality-selectivity'
+---
+
 Now that I work on databases, I have a habit of keeping up with upstream datafusion PRs. Today I noticed an interesting PR talking about usage of NDVs in equality filter selectivity. I have always been fascinated by NDVs cause my colleagues in planner team always mention them as something super helpful. I started looking into the PR and it turned out to be a small one, but there was a review on it and honestly I did not understand it at all. So I sat down to do some reading on how this works.
 
 Firstly, what are NDVs? NDVs are number of distinct values, these are usually stored at parquet file level. We can also compute NDVs for a column, i.e. how many distinct values a single column contains.
@@ -34,7 +40,7 @@ if ...
 
 In this interval means zone maps i.e. min/max values of that column. In our case above `y` would have min/max values as `{39,42}`.
 
-Condition checks if NDV count is not zero and `target_interval`'s lower value is same as upper value, if everything passes we assume our filter selectivity as `1/NDV`. 
+Condition checks if NDV count is not zero and `target_interval`'s lower value is same as upper value, if everything passes we assume our filter selectivity as `1/NDV`.
 
 According to reviewer, `1/NDV` estimation is incorrect in following cases:
 - "if the incoming stats already describe a singleton interval"
@@ -62,7 +68,7 @@ After first filter we would have:
 
 When we come to second filter and apply bounds to predicate we only get rows containing 41. Here we will predict selectivity as `1/NDV`. This is the exact problem, lets say out of first filter we get 70 rows out i.e. first filter has selectivity of 70%. Now lets say we have 35 rows of `41` and 35 rows of `42`, after applying second filter 35 rows are remaining i.e. 50% selectivity. But, if we go by NDV route, we get `70/5` i.e. 14 rows, that is a super low estimation!
 
-Our NDV count did not change as data flowed through both filters, same phenomenon can happen with different operators in the middle. We also saw that even though we got singleton interval as an 
+Our NDV count did not change as data flowed through both filters, same phenomenon can happen with different operators in the middle. We also saw that even though we got singleton interval as an
 
 This was an interesting dive, which confused me a lot at different places, even while writing this down!
 

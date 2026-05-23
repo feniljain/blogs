@@ -1,3 +1,9 @@
+---
+tech: true
+draft: false
+slug: 'iceberg-snapshots'
+---
+
 ### Snapshot Creation and Time Travel in Apache Iceberg
 
 Apache Iceberg has revolutionized data management in data lake architectures by offering robust metadata management and data snapshotting capabilities. This post dives deep into how snapshot creation and time travel work in Iceberg, exploring the metadata file structure, snapshot log, and the atomic swap mechanism that ensures consistency. Using PyIceberg examples and Polaris for demonstrations, we’ll illustrate how Iceberg allows consistent data state retrieval and time-travel queries with ease.
@@ -251,7 +257,7 @@ VALUES (1, 1000371, 1.8, 15.32, 'N'), (2, 1000372, 2.5, 22.15, 'N'), (2, 1000373
 │   │   ├── data
 │   │   │   ├── asdf
 │   │   │   ├── PART2.md
-│	│	├── metadata 
+│	│	├── metadata
 │   ├── ld_preload
 │   │   ├── PART1.md
 │   │   └── PART2.md
@@ -401,7 +407,7 @@ We can cross check struct json to make sure our writes were properly registered.
 
 ##### Manifest List file
 
-Manifest list file as the name suggests lists down manifest file(s) associated with a particular snapshot. These manifest files contain data relating to a particular row, so let's say if a row is inserted on snapshot S1(=M1 -- corresponding manifest file) and updated later on snapshot S2(=M2 -- corresponding manifest file). Manifest list of S2 will contain M1 and M2 both. 
+Manifest list file as the name suggests lists down manifest file(s) associated with a particular snapshot. These manifest files contain data relating to a particular row, so let's say if a row is inserted on snapshot S1(=M1 -- corresponding manifest file) and updated later on snapshot S2(=M2 -- corresponding manifest file). Manifest list of S2 will contain M1 and M2 both.
 
 As this is an avro file so we can't inspect it's text directly. But we can leverage `spark-sql` to query these files. Firstly, let's try to see snapshot by running:
 

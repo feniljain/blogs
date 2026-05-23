@@ -1,3 +1,9 @@
+---
+tech: true
+draft: false
+slug: 'ld-preload-1'
+---
+
 # Understanding LD_PRELOAD
 
 This post assumes basic knowledge of shared and dynamic libraries.
@@ -52,7 +58,7 @@ int main() {
 ```
 
 Let's compile this program by running:
-```
+```sh
 gcc open.c -o open_file
 ```
 

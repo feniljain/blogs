@@ -1,3 +1,9 @@
+---
+tech: false
+draft: false
+slug: 'chinaga-betta-hike'
+---
+
 Chinaga betta is a nice little day hike bear Bengaluru. It is said to be 2.1 kms one side, so in total of 4.2 kms up and down. It's a simple hike, can be done with family and friends. I recently got to visiti it and I am gonna mention how was the experience. First thing is it needs permit, so book it from arayna vihaara [website](https://aranyavihaara.karnataka.gov.in/). Choose a convenient slot, in my time it was just 6 AM to 6:30 AM. This is needed cause it's said that a forest ranger will accompany you to the top, I say it that way, cause surprise surprise there was no one when we reached there.
 
 Trek starts from the base of temple [Torana Anjaneya Swami Temple](https://maps.app.goo.gl/9r7iUrNYPkihCvZp6). This is where forest department is supposed to check your IDs before starting. There were a lot of locals when we reached there, its a temple which seemed super active and when we were returning it also seemed they were in the process of sacrificing a goat. We didn't stand back to see that. Well that's for a later bit, first in the start, when we were approaching base of the temple we were very scared as it was pitch black and when we entered forest side, it started to feel like off roading. So driving through a lonely road in night with no one in sight, was a bit concerning, but when we reached there and saw few fellow hikers we were relieved.

@@ -1,3 +1,9 @@
+---
+tech: true
+draft: false
+slug: 'faster-shell-boot'
+---
+
 ## Optimizing My Shell Startup Times
 
 I was going through Thorsten's latest blog about faster startup times, and he talks about shell startup times, here is the direct link for curious: https://registerspill.thorstenball.com/p/how-fast-is-your-shell . This made me wonder how fast is my shell config, and work on my shell load times to at least get them in a bareable range.
