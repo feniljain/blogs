@@ -3,7 +3,7 @@ tech: false
 draft: false
 slug: 'claude-heads'
 title: 'ClaudeHeads'
-publishedOn: '2026-09-04'
+publishedOn: '2026-04-09'
 lastEditedOn: '2026-05-23'
 ---
 
