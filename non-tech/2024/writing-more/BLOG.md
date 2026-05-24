@@ -1,7 +1,7 @@
 ---
 tech: false
 draft: false
-slug: 'writing-more'
+slug: 'writing-more-2024'
 title: 'Writing More'
 publishedOn: '2024-01-01'
 lastEditedOn: '2026-05-23'
