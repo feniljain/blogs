@@ -76,6 +76,6 @@ Our NDV count did not change as data flowed through both filters, same phenomeno
 This was an interesting dive, which confused me a lot at different places, even while writing this down!
 
 References:
-- https://learn.microsoft.com/en-us/sql/relational-databases/performance/cardinality-estimation-sql-server?view=sql-server-ver17
-- https://github.com/apache/datafusion/pull/20789/
-- https://blobs.duckdb.org/papers/tom-ebergen-msc-thesis-join-order-optimization-with-almost-no-statistics.pdf
+- [Cardinality estimation SQL Server](https://learn.microsoft.com/en-us/sql/relational-databases/performance/cardinality-estimation-sql-server)
+- [datafusion PR](https://github.com/apache/datafusion/pull/20789/)
+- [DuckDB Paper](https://blobs.duckdb.org/papers/tom-ebergen-msc-thesis-join-order-optimization-with-almost-no-statistics.pdf)
