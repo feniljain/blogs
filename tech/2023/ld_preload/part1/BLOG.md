@@ -131,4 +131,4 @@ All this sounds fun, but there are a few catches in this too.
 
 And that's a basic introduction, in next post we will do the same with a small Rust program instead :)
 
-Credits: https://rafalcieslak.wordpress.com/2013/04/02/dynamic-linker-tricks-using-ld_preload-to-cheat-inject-features-and-investigate-programs/ this post helped me a lot to understand basics of LD_PRELOAD. My post uses similar examples from parent blog post. But we will also be building up tad bit on it in upcoming blog posts :)
+Credits: [this post](https://rafalcieslak.wordpress.com/2013/04/02/dynamic-linker-tricks-using-ld_preload-to-cheat-inject-features-and-investigate-programs/) helped me a lot to understand basics of LD_PRELOAD. My post uses similar examples from parent blog post. But we will also be building up tad bit on it in upcoming blog posts :)

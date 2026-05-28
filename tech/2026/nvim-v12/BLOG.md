@@ -43,7 +43,7 @@ I wanted to maintain order remember? That can easily be done with a single `vim.
 
 With all of this out of the way, migration was really SMOOTH! And I kinda love that I am not pulling a heavy dependency like lazy.nvim in my dep tree :)
 
-If you have advanced usecases or want to understand the feature better, there are two awesome guides: official manual and then https://echasnovski.com/blog/2026-03-13-a-guide-to-vim-pack.html. Read it end-to-end, each section has something you can take away. It is the most comprehensive guide out there right now.
+If you have advanced usecases or want to understand the feature better, there are two awesome guides: official manual and then [this](https://echasnovski.com/blog/2026-03-13-a-guide-to-vim-pack.html). Read it end-to-end, each section has something you can take away. It is the most comprehensive guide out there right now.
 
 One small trick I learned from the article above is placing `vim.loader.enable` speeds up startup times for free and this is blessed on us by Folke himself!! Ofc I added that and instantly realized 25ms off the loading time xD
 
@@ -71,7 +71,7 @@ But this release I came across two interesting bugs!
 
 First one we have already discussed, I hope it gets fixed in an upcoming version or even next release is fine :P
 
-For the second one, this is something severe and I was very astonished to come across it! First, link to bug report: https://github.com/neovim/neovim/issues/39815
+For the second one, this is something severe and I was very astonished to come across it! First, link to [bug report](https://github.com/neovim/neovim/issues/39815)
 
 minimal repro is just:
 

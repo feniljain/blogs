@@ -14,7 +14,7 @@ optimizations in this blog. We will end up with really nice speedups at the end,
 
 One of the best things about implementing brainfuck is it's implementation is simple and straightforward and hence one can find optimization opportunities realtively easily. We don't try to plot a flamegraph, cause we know most of the time is spent in `exec` function, that's where we execute all of our operations, so any optimizations done in that flow would give us direct noticeable speedups.
 
-Let's look at implementations of our operands again, this is the core loop: https://github.com/feniljain/brenphuk/blob/6b00f84be79c00679dc28ba917b853ff2e18beea/interpreter.c#L66-L142 right now. There's not much to see, implementations for `>`, `<`, `+`, `-`, `.`, `,` are pretty simple and one liner even :P . So let's have a look at multi-liners i.e. loop implementations, here most hot path would definitely will be finding it's corresponding loop operand, let's say we have a program like:
+Let's look at implementations of our operands again, [this is the core loop](https://github.com/feniljain/brenphuk/blob/6b00f84be79c00679dc28ba917b853ff2e18beea/interpreter.c#L66-L142) right now. There's not much to see, implementations for `>`, `<`, `+`, `-`, `.`, `,` are pretty simple and one liner even :P . So let's have a look at multi-liners i.e. loop implementations, here most hot path would definitely will be finding it's corresponding loop operand, let's say we have a program like:
 
 ```
 [:::[::]:::[::[::]::]]
@@ -305,6 +305,6 @@ Simple and easy, let's benchmark this change:
 Factor: ~2.16s
 Mandelbrot: ~5.9s
 
-And we get another round of massive speedups! Whole code is available at: https://github.com/feniljain/brenphuk/tree/attempt_3
+And we get another round of massive speedups! Whole code is available [here](https://github.com/feniljain/brenphuk/tree/attempt_3)
 
 This is where halt our efforts for optimizations, next we are going to learn about JITs from systems perspective, how do we leverage kernel APIs to achieve JITting.

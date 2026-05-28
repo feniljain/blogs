@@ -21,11 +21,9 @@ Let's try to write a simple hello world program in asm which we print "hello wor
 - r8 contains fifth argument
 - r9 contains sixth argument
 
-You can find more details about it here: https://stackoverflow.com/questions/2535989/what-are-the-calling-conventions-for-unix-linux-system-calls-and-user-space-f
+You can find more details about it [here](https://stackoverflow.com/questions/2535989/what-are-the-calling-conventions-for-unix-linux-system-calls-and-user-space-f)
 
-And this is a nice small collective table for different syscalls and what args to pass in what registers from chromium project:
-
-https://chromium.googlesource.com/chromiumos/docs/+/master/constants/syscalls.md#x86_64-64_bit
+And this is a nice small collective table for different syscalls and what args to pass in what registers from [chromium project](https://chromium.googlesource.com/chromiumos/docs/+/master/constants/syscalls.md#x86_64-64_bit)
 
 We see `write` has to be passed:
 

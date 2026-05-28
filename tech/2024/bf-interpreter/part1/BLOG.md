@@ -36,8 +36,7 @@ Let's look at all the operators:
 And that's it, this is the whole language, suprisingly simple right xD
 
 There are a few properties we haven't discussed yet, they are more like implementation details, for e.g. how long should the tape be?
-what to do if you cross the max size of tape? what should be initial value of cell? These things are outlined in compelte detail in this spec:
-https://github.com/sunjay/brainfuck/blob/master/brainfuck.md
+what to do if you cross the max size of tape? what should be initial value of cell? These things are outlined in compelte detail in [this spec](https://github.com/sunjay/brainfuck/blob/master/brainfuck.md)
 
 ## Small Brainfuck Programs which we will use in tests of our interpreter
 
@@ -129,8 +128,7 @@ After third iteration, we again execute 4th, 5th and 6th operator:
        ----------....
 ```
 
-This seems tedious to do it by hand right? No probs some humble person on internet made this for us:
-https://arkark.github.io/brainfuck-online-simulator/
+This seems tedious to do it by hand right? No probs some humble person on internet made [this](https://arkark.github.io/brainfuck-online-simulator/) for us.
 
 Visualization of brainfuck programs, really helpful for debugging!
 
@@ -159,7 +157,7 @@ is:
 "hello world"
 
 lessggoo we did it! We have reached hello world finally. It's a good exercise to think about execution here too, I think spec itself does a good job at trying
-to explain it, so it's better to give that a try: https://github.com/sunjay/brainfuck/blob/master/brainfuck.md#hello-world-example
+to explain it, so it's better to give [that](https://github.com/sunjay/brainfuck/blob/master/brainfuck.md#hello-world-example) a try.
 
 ## C build system setup
 
@@ -332,14 +330,14 @@ case ']': {
 ```
 
 And that's it, ofc we do need supporting code in main and things around repl, I am not covering them in blog cause they are mostly irrelevant and easy to do,
-still just to whole thing together, you can check: https://github.com/feniljain/brenphuk/tree/attempt_1
+still just to whole thing together, you can check out [this](https://github.com/feniljain/brenphuk/tree/attempt_1)
 
 This implementation also contains a benchmark suite, this will be helpful when comparing results of our different approaches in sections further.
-Benchmark prorgams are present in https://github.com/feniljain/brenphuk/tree/attempt_1/programs , when we run above program with -O3, we get these execution times:
+Benchmark prorgams are present in [this page](https://github.com/feniljain/brenphuk/tree/attempt_1/programs), when we run above program with -O3, we get these execution times:
 
 Factor: ~24-25s
 Mandelbrot: ~69-70s
 
 ## Resources:
 
-I have collected few brainfuck resources to help here: https://github.com/feniljain/knowledge-base/blob/main/programming-languages/brainfuck/README.md
+I have collected few brainfuck resources to help [here](https://github.com/feniljain/knowledge-base/blob/main/programming-languages/brainfuck/README.md)
