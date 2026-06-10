@@ -6,28 +6,6 @@ title: Minimal CSS for everything
 publishedOn: 2026-06-10
 lastEditedOn: 2026-06-10
 ---
-- Talk about how in college you didn't like frameworks
-	- Always hand rolled all the websites for everything
-- Matklad's recent article
-- What I have tried in college?
-- Your ideas:
-	- box-sizing: border-box
-	- flexbox for responsive layouts
-		- justify-content
-		- align-items
-		- flex-direction
-		- flex-grow
-	- single media query
-	- margin on body
-		- talk a bit about CSS reset maybe?
-	- percent over pixels for margin and footer
-	- rem over pixels for font size
-		- Maybe mention blog which Matklad mentioned?
-	- css variables for light and dark mode
-	- don't forget LVHA
-	- prefer loads of nesting divs and use border for debugging
-		- prefer to use HTML semantic tags over div for a decent run of default features
-
 Today I am going to talk about minimal CSS to make responsive websites. This is the best time to write this down cause I have built [my website](fknil.pages.dev) recently, and I fought through a jungle of different loosely connected pieces of ideas I had in my brain to make this website responsive and with no horizontal scroll. Please please remove horizontal scrolls from your websites, it is not that hard. Personally if I come across one, it drives me nuts. And this is not just noobs writing CSS who introduce them, I just saw it yesterday on Github compare page!! A multi-million dollar company, with all the resources in the world, and they can introduce such bugs. Its still present as of writing this blog i.e. 10-06-2026-06-09 in DD-MM-YYYY, check it out [here](https://github.com/apache/datafusion/compare/main...feniljain:datafusion:feat-offset-pushdown).
 
 I was doing a lot of web-dev during my college days. Being part of a super active club, we used to conduct a lot of events! And each one required at least a website, with android/iOS app being optional. We were always in build mode, one event goes, another one is knocking on the door. You would think with all this pressure, why not use something like Wordpress? Well there are two reasons:
