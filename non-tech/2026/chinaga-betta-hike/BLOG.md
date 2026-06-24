@@ -7,12 +7,6 @@ publishedOn: '2026-02-08'
 lastEditedOn: '2026-05-23'
 ---
 
-import { Image } from 'astro:assets';
-import eucalyptus from '@blogs/non-tech/2026/chinaga-betta-hike/walk-through-eucalyptus-trees.jpeg';
-import verticalWall from '@blogs/non-tech/2026/chinaga-betta-hike/vertical-wall-to-climb.jpeg';
-import clouds from '@blogs/non-tech/2026/chinaga-betta-hike/amongst-the-clouds.jpeg';
-import settlements from '@blogs/non-tech/2026/chinaga-betta-hike/tiny-settlements-between-hills.jpeg';
-
 Chinaga betta is a nice little day hike bear Bengaluru. It is said to be 2.1 kms one side, so in total of 4.2 kms up and down. It's a simple hike, can be done with family and friends. I recently got to visiti it and I am gonna mention how was the experience. First thing is it needs permit, so book it from arayna vihaara [website](https://aranyavihaara.karnataka.gov.in/). Choose a convenient slot, in my time it was just 6 AM to 6:30 AM. This is needed cause it's said that a forest ranger will accompany you to the top, I say it that way, cause surprise surprise there was no one when we reached there.
 
 Trek starts from the base of temple [Torana Anjaneya Swami Temple](https://maps.app.goo.gl/9r7iUrNYPkihCvZp6). This is where forest department is supposed to check your IDs before starting. There were a lot of locals when we reached there, its a temple which seemed super active and when we were returning it also seemed they were in the process of sacrificing a goat. We didn't stand back to see that. Well that's for a later bit, first in the start, when we were approaching base of the temple we were very scared as it was pitch black and when we entered forest side, it started to feel like off roading. So driving through a lonely road in night with no one in sight, was a bit concerning, but when we reached there and saw few fellow hikers we were relieved.
@@ -32,7 +26,7 @@ This section is also slippery at times, two of my friends survived the slip, but
 There's a section between flatland and this uphill where you will start seeing eucalyptus trees. They are beautiful with little yellow flowers on them. This gave me a feeling of walking through magic forest of berserk. If locals hadn't burnt a lot of trees, I wonder if I would have declared it Garden of Eden.
 
 <p align="center">
-<Image src={eucalyptus} alt="Walk through eucalyptus trees" style="width: 30%; height: 20%" />
+<img src="/rss-images/blogs/non-tech/2026/chinaga-betta-hike/walk-through-eucalyptus-trees.jpeg" alt="Walk through eucalyptus trees" style="width: 30%; height: 20%" />
 </p>
 
 Also while going uphill you will notice white arrows, follow them. Though you could also just rely on the trail map you have downloaded, it was on OpenStreetMaps on IndiaHikes website so you could use any FOSS maps app to view it.
@@ -45,7 +39,7 @@ As you walk through the last section, you will come across two big rocks creatin
 
 Once you complete that you would reach the final vertical rock which you have to climb. There's a rope there to assist but it seemed we were the first one to reach so it was thrown above!? Not sure why would someone do that. It looks like this:
 <p align="center">
-<Image src={verticalWall} alt="Vertical wall to climb" style="width: 30%; height: auto;" />
+<img src="/rss-images/blogs/non-tech/2026/chinaga-betta-hike/vertical-wall-to-climb.jpeg" alt="Vertical wall to climb" style="width: 30%; height: auto;" />
 </p>
 
 It doesn't look much but there's no proper footing down below, so if you slip you can get injured. And getting up is one thing, getting down is more scary unless you have someone looking at your feet and telling you where the footholds are.
@@ -53,8 +47,8 @@ It doesn't look much but there's no proper footing down below, so if you slip yo
 They are also carved inside the rock, and not projecting outwards. Also part of the reason why when getting down you have to look for them. Well, getting back in our case, I was the guy who got pushed forward to climb to get rope from above. I had no safety, so my friends were a bit concerned but I was confident as I had climbed much higher rocks with much dicier footholds and handholds as compared to this in Hampi. I threw the rope down and assisted everyone else to climb above. As we reached above, we could get a much clearer view of everything around, it's a beautiful place. On one side, you are seeing mountains till eyes can reach, covered with a blanket of clouds. Next side, you see tiny settlements, with lesser hills, perfect for people to make actual small towns around. While it's not a lot of height, wind there was super strong. So if you are lean and light weight, please don't fly off xD
 
 <p align="center">
-<Image src={clouds} alt="Amongst the clouds" style="width: 30%; height: auto;" />
-<Image src={settlements} alt="Tiny settlements between small hills" style="width: 30%; height: auto;" />
+<img src="/rss-images/blogs/non-tech/2026/chinaga-betta-hike/amongst-the-clouds.jpeg" alt="Amongst the clouds" style="width: 30%; height: auto;" />
+<img src="/rss-images/blogs/non-tech/2026/chinaga-betta-hike/tiny-settlements-between-hills.jpeg" alt="Tiny settlements between small hills" style="width: 30%; height: auto;" />
 </p>
 
 We had a dog guide us the whole time, she was so cute and playful, unfortunately she disappeared when we completed the hike, so we couldn't treat her :( We also could not carry her to to topmost section as that was a climb on a straight rock. It wasn't the biggest but not possible for us to do with a dog.
