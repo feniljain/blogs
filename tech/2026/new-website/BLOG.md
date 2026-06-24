@@ -69,4 +69,4 @@ I don't want this to be a passion project for now, it is more of a means to an e
 
 There's also one thing I wanna do before taking on work of image flow fixing, that is adding wander instance to my webpage, that would be fun to have, a corner of mine in the small/indie web community :)
 
-For now, you can find [my website here](https://fknil.com/) and [RSS feed here](https://fknil.pages.dev/rss.xml). Till next time, chao! 😺
+For now, you can find [my website here](https://fknil.com/) and [RSS feed here](https://fknil.com/rss.xml). Till next time, chao! 😺
