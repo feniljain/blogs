@@ -9,7 +9,7 @@ lastEditedOn: '2026-05-24'
 
 ## Motivation
 
-I have been pilled by "write more" propaganda, and its not something new, I have written [about it before](https://fknil.pages.dev/blog/writing-more-2024/) but never actually made progress on it. Something has changed this year, I utilized my new year to go through the book of `Accidental Genius`, it talks about freewriting, basically a concept about just typing out words till the editor in your brain takes a step back and you can get your original ideas out, a process of self discovery you can say. Well this is one benefit, mostly importantly I really liked writing as a means to gain clarity. This could work for anything life, work, problem solving, etc. To be frank, I hadn't written much after reading the book in January, but you know there are few things which grow over you? I think the idea has grown over me. So now, I just bang out lines, edit it once maybe and hit `push`. I even migrated to using markdown files for this, lower the friction to actually publish a blog post, the better.
+I have been pilled by "write more" propaganda, and its not something new, I have written [about it before](https://fknil.com/blog/writing-more-2024/) but never actually made progress on it. Something has changed this year, I utilized my new year to go through the book of `Accidental Genius`, it talks about freewriting, basically a concept about just typing out words till the editor in your brain takes a step back and you can get your original ideas out, a process of self discovery you can say. Well this is one benefit, mostly importantly I really liked writing as a means to gain clarity. This could work for anything life, work, problem solving, etc. To be frank, I hadn't written much after reading the book in January, but you know there are few things which grow over you? I think the idea has grown over me. So now, I just bang out lines, edit it once maybe and hit `push`. I even migrated to using markdown files for this, lower the friction to actually publish a blog post, the better.
 
 This is one part of the equation, second is, I have grown to start liking [IndieWeb](https://indieweb.org/) concept. I first discovered the concept through [Susam Pal's Wander instances](https://codeberg.org/susam/wander). When I first visited it, I felt like my child like curiosity came back again, it was so wonderful to visit people's websites, read what they have been up to in life/tech, etc. I wanted a little space of my own too, not as fancy as some of those neocities pages, but just my own little simple space where I can host my own interests.
 
@@ -49,7 +49,7 @@ There is just one thing amongst my requirements, which you would be confused abo
 
 ### Not so good parts
 
-So till now, we discussed how Astro is ticking all the boxes, but nothing is perfect, there were a few caveats. First is resizing images in markdown. Images can be of varied size but resizing them dynamically is a very common usecase. Well it seems like Astro does not have good support for the same with markdown files. I had to convert my blog of [chinaga betta hike](https://fknil.pages.dev/blog/chinaga-betta-hike/) to a MDX file and inject Astro specific JSX to get it working, this was a huge bummer for me. Before moving on to MDX I tried a bunch of things:
+So till now, we discussed how Astro is ticking all the boxes, but nothing is perfect, there were a few caveats. First is resizing images in markdown. Images can be of varied size but resizing them dynamically is a very common usecase. Well it seems like Astro does not have good support for the same with markdown files. I had to convert my blog of [chinaga betta hike](https://fknil.com/blog/chinaga-betta-hike/) to a MDX file and inject Astro specific JSX to get it working, this was a huge bummer for me. Before moving on to MDX I tried a bunch of things:
 
 - Use `img` tag in markdown file with local path
 - Use `span` and `div` tag in markdown file with local path
@@ -69,4 +69,4 @@ I don't want this to be a passion project for now, it is more of a means to an e
 
 There's also one thing I wanna do before taking on work of image flow fixing, that is adding wander instance to my webpage, that would be fun to have, a corner of mine in the small/indie web community :)
 
-For now, you can find [my website here](https://fknil.pages.dev/) and [RSS feed here](https://fknil.pages.dev/rss.xml). Till next time, chao! 😺
+For now, you can find [my website here](https://fknil.com/) and [RSS feed here](https://fknil.pages.dev/rss.xml). Till next time, chao! 😺
