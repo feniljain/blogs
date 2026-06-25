@@ -59,7 +59,7 @@ First thing, lets talk about improving structure. I moved images from website re
 
 to my [tsconfig.json](https://github.com/feniljain/fknil/blob/87e67b1ea550b3fd2d019f7cdf367ee5f11631ca/tsconfig.json#L9-L10) and that allowed me to write import statements without worrying about relocating submodules in the future! But I still had to write down full paths from base of the submodule project to the blog post.
 
-Next let's talk about static URLs. I was talking about this problem with [Harsh](https://msfjarvis.dev/) in last IndieWebClubBlr meetup and he mentioned I should dump all images in `public/` folder and that would give me static URLs for all of them. I decided to do just that, but at build time! So I wrote a [bash script](https://github.com/feniljain/fknil) which:
+Next let's talk about static URLs. I was talking about this problem with [Harsh](https://msfjarvis.dev/) in last IndieWebClubBlr meetup and he mentioned I should dump all images in `public/` folder and that would give me static URLs for all of them. I decided to do just that, but at build time! So I wrote a [bash script](https://github.com/feniljain/fknil/blob/3ba3b63947db91ed2cad4ec23c35add587c8d67b/scripts/copy-rss-images.sh) which:
 
 - is executed [before](https://github.com/feniljain/fknil/blob/87e67b1ea550b3fd2d019f7cdf367ee5f11631ca/package.json#L9-L10) astro build is called
 - moves images from respective dirs to `public/` but with same dir structure
