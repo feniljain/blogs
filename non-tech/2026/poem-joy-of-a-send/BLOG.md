@@ -6,9 +6,14 @@ title: 'Joy of a send'
 publishedOn: '2026-06-30'
 lastEditedOn: '2026-06-30'
 ---
+<p align="center">
+<img src="/rss-images/blogs/non-tech/2026/poem-joy-of-a-send/under-stars-in-front-of-boulder.jpg" alt="Me sitting under stars in front of a boulder getting ready to climb it" style="width: 30%; height: 20%" />
+</p>
 
-TODO(feniljain): cover image
+Preface: In climbing lingo, sending a project means completing a route you were working on as a project.
 
+<pre>
+<em>
 On the stone, on the rock
 One the boulder, I sit in shock.
 The project I dreamed about all while,
@@ -33,3 +38,5 @@ But the joy is atop and sole.
 I get on the ground, have a look around,
 Isn't that route overhung!?
 And there starts another battle unsung.
+</em>
+</pre>
