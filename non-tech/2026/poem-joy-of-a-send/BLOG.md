@@ -15,7 +15,7 @@ Preface: In climbing lingo, sending a project means completing a route you were 
 <pre>
 <em>
 On the stone, on the rock
-One the boulder, I sit in shock.
+On the boulder, I sit in shock.
 The project I dreamed about all while,
 I sent it with a smile.
 
