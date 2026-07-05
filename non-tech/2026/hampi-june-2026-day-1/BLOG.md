@@ -6,7 +6,6 @@ title: Hampi Day 1
 publishedOn: 2026-07-03
 lastEditedOn: 2026-07-03
 ---
-
 I recently (26th-28th June 2026) went on a three day climbing trip to Hampi. It wasn't enough for climbing, but definitely enough for healing my soul through and through. This is my day to day log of a small set of things that happened.
 
 On our first day, we arrived sleep deprived in [Hospete](https://maps.app.goo.gl/FuQuaQu5bLeR9aEU6) and took an auto to [Hanumanhalli](https://maps.app.goo.gl/X6ytwvY2SAPJiMYN6). Our abode was Mani's homestay (theres no maps link for it 🫠). It is a minimal 1980s style house with owning family living in a small part of the house, leaving four rooms open for lodging.
@@ -49,7 +48,7 @@ Refreshed, everyone gulped coffee at [Wanderlust](https://maps.app.goo.gl/STnBy3
 <p align="center">
 <img src="/rss-images/blogs/non-tech/2026/hampi-june-2026-day-1/me-carrying-climbing-equipment.jpeg" alt="Me carrying climbing equipment up the hill" style="width: 30%; height: 20%" />
 <img src="/rss-images/blogs/non-tech/2026/hampi-june-2026-day-1/eyes-of-party-boulder.jpg" alt="Eyes of party boulder" style="width: 30%; height: 20%" />
-<img src="/rss-images/blogs/non-tech/2026/hampi-june-2026-day-1/colorful-lizard.jpeg" alt="Eyes of party boulder" style="width: 30%; height: 20%" />
+<img src="/rss-images/blogs/non-tech/2026/hampi-june-2026-day-1/colorful-lizard.jpeg" alt="Colorful Lizard" style="width: 30%; height: 20%" />
 </p>
 
 As it was already `17:30` by the time we started, it was close to sunset when we were in the middle of our warmup and I swear to god, this golden hour was one of the most beautiful I have ever experienced. We got some really good photos, sadly can't link them right now cause they are still getting developed, might end up updating the blog later. Well after that golden distraction we started warming up on nearby boulders. There was a relatively small boulder just in front, that was a bit taller than me, still low enough for warmup. So we got some feel for the rock texture, and did a [sit start](https://www.climbgrades.com/BoulderingDefinitions/sit-start) reaching the top to start it safe. Next, we started our trip's proper routes with a `5` (understanding [grading](https://cdn.shopify.com/s/files/1/0298/8159/8051/files/Rock_Climbing_Grades_Conversion_Chart_600x600.jpg?v=1718444205)) named `Short Overhung Arete` (74 in photo). I was confused on it in the start, but got the main rockover move and feet placement on my 3rd attempt and with that I had first send of this trip!! 🎉 Next was a `6a` named "[Scoop](https://www.thecrag.com/en/climbing/india/hampi/route/9057781017)" (73 in the photo). Aptly named, cause it scooped everyone's asses, even experienced climbers took 10-15+ attempts to send it and to no-ones surprise I had to give up on it 😭. With its super spanny start move and above waist high right foot (injured ankle side) placement, it just wasn't for me. I do truly believe, it is not made for shorter climbers, you need certain amount of height to call it a `6a` (which should be easy for me mind you, no climbing ego `:P`).
