@@ -70,7 +70,7 @@ And as if whole world was conspiring to make this moment better, I found my firs
 <iframe width="315" height="560" src="https://www.youtube-nocookie.com/embed/epawVCzG5fU?mute=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </p>
 
-P.S. I was thinking it was not a flash when doing it, but it actuall was `xD`
+P.S. I was thinking it was not a flash when doing it, but it actually was `xD`
 
 This led me to not think much about `Physics`. Of course it did not seem easy, but also something I couldn't have judged just based on the looks. And man, it didn't disappoint, it absolutely kicked my ass. I couldn't do anything after the second move 😭.
 
