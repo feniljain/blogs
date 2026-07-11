@@ -3,18 +3,9 @@ tech: false
 draft: false
 slug: hampi-june-2026-day-2
 title: Hampi Day 2
-publishedOn: 2026-07-03
-lastEditedOn: 2026-07-03
+publishedOn: 2026-07-11
+lastEditedOn: 2026-07-11
 ---
-
-TODOs:
-- X Expand content
-- X fix content TODOs
-- X Fix grammar
-- X Read the blog end-to-end here
-- X Fix TODOs
-- Read the blog locally rendered
-- Publish
 
 I recently (26th-28th June 2026) went on a three day climbing trip to Hampi and this is my day to day log of a small set of things that happened. Find day 1 [here](/blog/hampi-june-2026-day-1/). Onto day 2:
 
