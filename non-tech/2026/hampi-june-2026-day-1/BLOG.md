@@ -6,6 +6,7 @@ title: Hampi Day 1
 publishedOn: 2026-07-03
 lastEditedOn: 2026-07-03
 ---
+
 I recently (26th-28th June 2026) went on a three day climbing trip to Hampi. It wasn't enough for climbing, but definitely enough for healing my soul through and through. This is my day to day log of a small set of things that happened.
 
 On our first day, we arrived sleep deprived in [Hospete](https://maps.app.goo.gl/FuQuaQu5bLeR9aEU6) and took an auto to [Hanumanhalli](https://maps.app.goo.gl/X6ytwvY2SAPJiMYN6). Our abode was Mani's homestay (theres no maps link for it 🫠). It is a minimal 1980s style house with owning family living in a small part of the house, leaving four rooms open for lodging.
@@ -23,7 +24,7 @@ Besides its historical significance, this is also a boulder heaven! This path up
 River in this section was pretty narrow and small, with loads of super shiny rocks. This shine is SO weird, they almost look like plastic under sunlight. On [reading](https://youtu.be/eAypgtLbvxI?si=l5-ertgqS1NJkXJ7&t=137) up a bit more, it seems like this is because of their composition of quartz, feldspar and mica minerals, very very interesting. As there were more rocks than river in this particular area, people have placed one man walk stones to cross it. We crossed this section to enter a small foresty line which is your average foot hill. But after that comes one of my most favorite sections. A walk through elevated trails amidst paddy fields. There's a super narrow one person path crossing all these fields. In the day, one can enjoy the view of these fields plus forest around. In the night, it becomes an orchestra of toads and crickets, all singing on top of their lungs to create what I have started calling: "Climbers Remix" presented by our very own supertalented, super duper experienced and god of all music: "nature".
 
 <p align="center">
-<iframe width="315" height="560" src="https://www.youtube-nocookie.com/embed/TbAQ_bNwRUQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="315" height="560" src="https://www.youtube-nocookie.com/embed/TbAQ_bNwRUQ?mute=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </p>
 
 Seems too ordinary to like this setting? I think anime has taught me to love this, I really like those small village slice of life animes where protoganist(s) are also walking through the fields, listening to cicadas screaming, exactly the same as the scenario above :)
