@@ -18,7 +18,7 @@ Morphs like the earth shapes
 
 Shines with the wrath of sun
 Calms with the hearth of moon
-Weeps when the rail falls
+Weeps when the rain falls
 Boils when the summer hauls
 
 Absent with self image
