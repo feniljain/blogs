@@ -1,14 +1,16 @@
 ---
 tech: false
 draft: false
-slug: 'poem-tatake'
-title: 'Tatake'
-publishedOn: '2026-08-25'
-lastEditedOn: '2026-08-25'
+slug: poem-tatake
+title: Tatake
+publishedOn: 2026-08-25
+lastEditedOn: 2026-09-07
 ---
 <p align="center">
 <img src="/rss-images/blogs/non-tech/2026/poem-tatake/kayaking-in-wayanad.webp" alt="Me kayaking in wayanad in Banasura Sagar Dam" style="width: 30%; height: 20%" />
 </p>
+
+Preface: [Tatake](https://thejapaneseway.com/tatakae-meaning/) is a Japanese word which got popularized by the anime [Attack On Titan](https://myanimelist.net/anime/16498/Shingeki_no_Kyojin). It's used by the main protoganist to motivate himself to fight. But the word itself also means `struggle`. I named this poem with latter in the mind `:)`.
 
 <pre>
 <em>
