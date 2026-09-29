@@ -18,7 +18,7 @@ With heavy "first day, don't miss anything" motivation, I reached well before th
 
 Seeing the big hall made me super happy. I took my seat and was ready for the showdown. These were some of the talks I loved in the hardware track:
 
-- [Build your own Open source keyboard with ZMK/QMK](https://fossunited.org/c/indiafoss/2026/cfp/32f9jjkob0) 
+- [Build your own Open source keyboard with ZMK/QMK](https://fossunited.org/c/indiafoss/2026/cfp/32f9jjkob0)
 	- Even though I love keyboards, I did not know a lot about building one from scratch. I have been a super happy frog clacking my [Keychron K2V2](https://www.keychron.com/products/keychron-k2-wireless-mechanical-keyboard) in this well.
 	- Maybe just maybe it's time to build the [dactyl](https://www.diykeyboards.com/featured-products/product/76-dactyl-manuform) I've always dreamed about.
 - [CNC4Everyone](https://fossunited.org/c/indiafoss/2026/cfp/1cbj5bhfhf)
@@ -157,7 +157,7 @@ I would like to do a few things better next year:
 
 # Photo
 
-And finally, a photo of Yash, Harsh and me at IndiaFOSS. ( Nice try [Tanvi](https://tanvibhakta.in/) . I am sure you will get the horns right in 2027 😂 )
+And finally, a photo of Yash, me and Harsh (in that order) at IndiaFOSS. ( Nice try [Tanvi](https://tanvibhakta.in/) . I am sure you will get the horns right in 2027 😂 )
 
 <p align="center">
 <img src="/rss-images/blogs/non-tech/2026/india-foss-2026/us-in-indiafoss.webp" alt="Us in IndiaFOSS" style="width: 30%; height: 20%" />
