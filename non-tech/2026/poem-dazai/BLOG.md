@@ -1,13 +1,13 @@
 ---
 tech: false
-draft: true
+draft: false
 slug: poem-dazai
 title: Poem Dazai
-publishedOn: 2026-06-30
-lastEditedOn: 2026-06-30
+publishedOn: 2026-10-13
+lastEditedOn: 2026-10-13
 ---
 <p align="center">
-<img src="/rss-images/blogs/non-tech/2026/poem-joy-of-a-send/under-stars-in-front-of-boulder.jpg" alt="Me sitting under stars in front of a boulder getting ready to climb it" style="width: 30%; height: 20%" />
+<img src="/rss-images/blogs/non-tech/2026/poem-dazai/sunset-on-mountains.webp" alt="Sunset on a remote mountain" style="width: 30%; height: 20%" />
 </p>
 
 <pre>
