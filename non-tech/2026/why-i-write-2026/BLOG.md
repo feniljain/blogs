@@ -17,6 +17,7 @@ My reasons:
 - Share cool stuff: technical writing
 - To influence others: claude heads
 - ABOVE ALL! For having clarity of thoughts: forever goals blog
+	- To understand hard concepts myself: writing down things while debugging, or understanding hard technical stuff
 - To get the worm out of my brain
 - To share with others
 

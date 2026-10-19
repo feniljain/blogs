@@ -25,3 +25,4 @@ lastEditedOn: 2026-08-01
 - You have to be competent to take a good interview! Strive for it. No one should be able to bullshit you, fundamentals are the same and enough for checking intuition.
 - Keep a question bank of general questions ready for each job role you would be hiring for.
 - How to give hints?
+- Enter an interview thinking you want to hire the person by default.
