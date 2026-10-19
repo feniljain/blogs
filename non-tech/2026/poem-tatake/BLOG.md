@@ -2,7 +2,7 @@
 tech: false
 draft: false
 slug: poem-tatake
-title: Tatake
+title: Poem Tatake
 publishedOn: 2026-08-25
 lastEditedOn: 2026-09-07
 ---

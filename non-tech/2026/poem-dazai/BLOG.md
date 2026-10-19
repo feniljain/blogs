@@ -2,7 +2,7 @@
 tech: false
 draft: false
 slug: poem-dazai
-title: Dazai
+title: Poem Dazai
 publishedOn: 2026-10-13
 lastEditedOn: 2026-10-13
 ---
