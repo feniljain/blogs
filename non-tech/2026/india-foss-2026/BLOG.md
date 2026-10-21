@@ -7,7 +7,7 @@ publishedOn: 2026-09-28
 lastEditedOn: 2026-09-28
 ---
 <p align="center">
-<img src="/rss-images/blogs/non-tech/2026/india-foss-2026/indiafoss.webp" alt="IndiaFOSS logo on a banner" style="width: 30%; height: 20%" />
+<img src="https://images.fknil.com/blogs/india-foss-2026/indiafoss.webp" alt="IndiaFOSS logo on a banner" style="width: 30%; height: 20%" />
 </p>
 
 [IndiaFOSS](https://fossunited.org/indiafoss/2026) is [FOSS United](https://fossunited.org/)'s annual flagship conference. It aims to bring together India's technical community under one roof to discuss anything and everything Open Source. Its 2026 edition happened on 26th and 27th September and what a blast it was. Amazing talks, engaging booths, inspiring personalities, loads of random catchup, fascination, motivation, confusion, all together in a neat two day package! Let's unfold the same `:)`
@@ -36,7 +36,7 @@ Seeing the big hall made me super happy. I took my seat and was ready for the sh
 Next was the `Compilers, programming languages and systems` devroom after lunch! Honestly I believe they should have organized this in the morning, with topics so deep, one needs a lot more focus. This was made worse by the extra rice I was served inspite of giving a small pinch hand sign. So after a few talks: insulin went 📈, eyelids went 📉. 😭
 
 <p align="center">
-<img src="/rss-images/blogs/non-tech/2026/india-foss-2026/compilers-devroom.webp" alt="Photo of Compilers Devroom" style="width: 30%; height: 20%" />
+<img src="https://images.fknil.com/blogs/india-foss-2026/compilers-devroom.webp" alt="Photo of Compilers Devroom" style="width: 30%; height: 20%" />
 </p>
 
 - [Semantic Quantization in KV Cache Eviction](https://fossunited.org/c/indiafoss/2026/cfp/381kk089so)
@@ -63,7 +63,7 @@ We went around some booths and called it a day with a plan to visit a nearby caf
 # Second day
 
 <p align="center">
-<img src="/rss-images/blogs/non-tech/2026/india-foss-2026/booth-2.webp" alt="Plotter machine" style="width: 30%; height: 20%" />
+<img src="https://images.fknil.com/blogs/india-foss-2026/booth-2.webp" alt="Plotter machine" style="width: 30%; height: 20%" />
 </p>
 
 On the second day, we got a bit late to arrive at the venue. We were afraid we would miss the breakfast, but were luckily just in time. Though we did end up getting late for the talks cause of an amazing catch up with [Vishal](https://www.linkedin.com/in/fossdot/). I had last talked with him two years ago I believe and had no idea he was doing such amazing [philanthropy work](https://bodhya.net/) in Bihar.
@@ -103,7 +103,7 @@ As an after conference ritual, I again ended up hanging out with FP and Rust Ind
 # Booths
 
 <p align="center">
-<img src="/rss-images/blogs/non-tech/2026/india-foss-2026/kiran-booth.webp" alt="Kiran's booth with interesting equipment" style="width: 30%; height: 20%" />
+<img src="https://images.fknil.com/blogs/india-foss-2026/kiran-booth.webp" alt="Kiran's booth with interesting equipment" style="width: 30%; height: 20%" />
 </p>
 
 Across both days, I spent more time at the booths than before, that's how I ended up talking to Anoop and Dev `xD`. But having done a setup 2 years ago for Rust India, I know it is really tiring! I didn't get to enjoy the conference and just hated the whole experience. This is part of the reason we don't organize Rust India booths anymore `:p`. To respect their time, I went around with Yash and the people running the booths were lovely! Booths have definitely evolved over the last year, now we have games, a LOT MORE merch, etc.
@@ -133,7 +133,7 @@ There were some details I liked and want to list without discussing:
 # Looking forward:
 
 <p align="center">
-<img src="/rss-images/blogs/non-tech/2026/india-foss-2026/booth-1.webp" alt="Laptop screen showing punch code loom" style="width: 30%; height: 20%" />
+<img src="https://images.fknil.com/blogs/india-foss-2026/booth-1.webp" alt="Laptop screen showing punch code loom" style="width: 30%; height: 20%" />
 </p>
 
 Few things I am looking forward to!
@@ -160,7 +160,7 @@ I would like to do a few things better next year:
 And finally, a photo of Yash, me and Harsh (in that order) at IndiaFOSS. ( Nice try [Tanvi](https://tanvibhakta.in/) . I am sure you will get the horns right in 2027 😂 )
 
 <p align="center">
-<img src="/rss-images/blogs/non-tech/2026/india-foss-2026/us-in-indiafoss.webp" alt="Us in IndiaFOSS" style="width: 30%; height: 20%" />
+<img src="https://images.fknil.com/blogs/india-foss-2026/us-in-indiafoss.webp" alt="Us in IndiaFOSS" style="width: 30%; height: 20%" />
 </p>
 
 P.S. Thanks to Yash for almost all the photos, sorry no sorry 🙈.
