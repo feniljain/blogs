@@ -8,13 +8,13 @@ lastEditedOn: 2026-10-23
 ---
 
 <p align="center">
-<img src="/rss-images/blogs/non-tech/2026/ettina-bhuja-hike/hull-from-grassland.webp" alt="Ettina bhuja peak" style="width: 30%; height: 20%" />
+<img src="https://images.fknil.com/blogs/ettina-bhuja/hull-from-grassland.webp" alt="Ettina bhuja peak" style="width: 30%; height: 20%" />
 </p>
 
 Ettina Bhuja is a cozy hike located in the beautiful town of [Sakleshpura](https://maps.app.goo.gl/N1VV62WRLEvn7NaTA), a small hill station located around 230 km away from Bengaluru. Its name when translated to English means "Ox's shoulder". This is because the peak, when viewed from a distance, looks like a bull's hull.
 
 <p align="center">
-<img src="/rss-images/blogs/non-tech/2026/ettina-bhuja-hike/bull-hull-in-distance.webp" alt="Bull hull in distance" style="width: 30%; height: 20%" />
+<img src="https://images.fknil.com/blogs/ettina-bhuja/bull-hull-in-distance.webp" alt="Bull hull in distance" style="width: 30%; height: 20%" />
 </p>
 
 The reported trail length ranges from 3-3.5 km (various websites) to 4-5 km (official Karnataka government signage). It's mentioned to take around 3-4 hours, but if you are even mildly fit, you can complete it much faster.
@@ -26,7 +26,7 @@ Hike is only allowed to start between `07:00` and `12:00`. And hikers must exit 
 ## Base camp
 
 <p align="center">
-<img src="/rss-images/blogs/non-tech/2026/ettina-bhuja-hike/temple.webp" alt="Sri Nanya Bhairaveshwara Temple" style="width: 30%; height: 20%" />
+<img src="https://images.fknil.com/blogs/ettina-bhuja/temple.webp" alt="Sri Nanya Bhairaveshwara Temple" style="width: 30%; height: 20%" />
 </p>
 
 The hike starts from [Sri Nanya Bhairaveshwara](https://maps.app.goo.gl/1zY3byUfS9N5Wxgd7) temple. Parking spots are available just opposite to the temple. Remember to carry cash, there didn't seem to be any network coverage present here for online payments.
@@ -34,13 +34,13 @@ The hike starts from [Sri Nanya Bhairaveshwara](https://maps.app.goo.gl/1zY3byUf
 Our destination peak is easily visible from this point but at the same time, it seems super far away. I remember the first time we saw it, we asked the rickshaw driver if we could actually make the to-and-fro journey in just 3-4 hours. That feeling of the peak being impossibly far away will be consistent throughout the hike.
 
 <p align="center">
-<img src="/rss-images/blogs/non-tech/2026/ettina-bhuja-hike/base-camp.webp" alt="Base Camp" style="width: 30%; height: 20%" />
+<img src="https://images.fknil.com/blogs/ettina-bhuja/base-camp.webp" alt="Base Camp" style="width: 30%; height: 20%" />
 </p>
 
 From here, we walked half a kilometer to reach the "base camp". This seemed to be a small property owned by a family providing daily meals, tea, coffee etc. Right next to it, is a small forest ranger shed. This is our actual starting point.
 
 <p align="center">
-<img src="/rss-images/blogs/non-tech/2026/ettina-bhuja-hike/ranger-shed.webp" alt="Forest Ranger shed" style="width: 30%; height: 20%" />
+<img src="https://images.fknil.com/blogs/ettina-bhuja/ranger-shed.webp" alt="Forest Ranger shed" style="width: 30%; height: 20%" />
 </p>
 
 ## Officer house
@@ -52,7 +52,7 @@ There are a couple of checks and procedures one needs to do before starting the 
 - We kept our bags and any loose plastic bottles in the shed.
 
 <p align="center">
-<img src="/rss-images/blogs/non-tech/2026/ettina-bhuja-hike/signs-before-the-trek.webp" alt="Signs before the trek" style="width: 30%; height: 20%" />
+<img src="https://images.fknil.com/blogs/ettina-bhuja/signs-before-the-trek.webp" alt="Signs before the trek" style="width: 30%; height: 20%" />
 </p>
 
 The hike is divided in roughly four sections:
@@ -67,19 +67,19 @@ The hike is divided in roughly four sections:
 First section starts immediately after the signs we saw above. This section resembled a light walk in the park. Whole path is surrounded by trees and flowers on all sides. You would definitely see a lot of beautiful butterflies and sometimes rain-felled trees too `xD`.
 
 <p align="center">
-<img src="/rss-images/blogs/non-tech/2026/ettina-bhuja-hike/fallen-tree.webp" alt="Fallen down tree" style="width: 30%; height: 20%" />
+<img src="https://images.fknil.com/blogs/ettina-bhuja/fallen-tree.webp" alt="Fallen down tree" style="width: 30%; height: 20%" />
 </p>
 
 Past the half point, we encountered a stream of water flowing down. We were already feeling at ease after the escape from scorching sun near the shed. Seeing this stream and hearing the sound of flowing water up ahead made us super hopeful for a bigger river/stream! We all rushed forward, just to realize it was all flowing from a water pump 🤡.
 
 <p align="center">
-<img src="/rss-images/blogs/non-tech/2026/ettina-bhuja-hike/water-pump.webp" alt="Water pump" style="width: 30%; height: 20%" />
+<img src="https://images.fknil.com/blogs/ettina-bhuja/water-pump.webp" alt="Water pump" style="width: 30%; height: 20%" />
 </p>
 
 We also realized the sound of flowing water was coming from somewhere else. Sadly, we couldn't pinpoint exactly where. In fact for the rest of the hike up, we kept looking for a river/stream but didn't find any `:(`. This section ends at the foothills, where the trail turns moderately steep.
 
 <p align="center">
-<img src="/rss-images/blogs/non-tech/2026/ettina-bhuja-hike/walk-in-the-park.webp" alt="Walk in the park" style="width: 30%; height: 20%" />
+<img src="https://images.fknil.com/blogs/ettina-bhuja/walk-in-the-park.webp" alt="Walk in the park" style="width: 30%; height: 20%" />
 </p>
 
 ## Second section: walk up the mountain amongst amazing jungle
@@ -87,9 +87,9 @@ We also realized the sound of flowing water was coming from somewhere else. Sadl
 I would call this section "Bhool Bhooliya" (for non-Hindi readers, read this word as maze). Reason being the amount of confusing two-ways you would notice here. I was able to capture a few of them!
 
 <p align="center">
-<img src="/rss-images/blogs/non-tech/2026/ettina-bhuja-hike/two-ways-1.webp" alt="Two ways 1" style="width: 30%; height: 20%" />
-<img src="/rss-images/blogs/non-tech/2026/ettina-bhuja-hike/two-ways-2.webp" alt="Two ways 2" style="width: 30%; height: 20%" />
-<img src="/rss-images/blogs/non-tech/2026/ettina-bhuja-hike/two-ways-3.webp" alt="Two ways 3" style="width: 30%; height: 20%" />
+<img src="https://images.fknil.com/blogs/ettina-bhuja/two-ways-1.webp" alt="Two ways 1" style="width: 30%; height: 20%" />
+<img src="https://images.fknil.com/blogs/ettina-bhuja/two-ways-2.webp" alt="Two ways 2" style="width: 30%; height: 20%" />
+<img src="https://images.fknil.com/blogs/ettina-bhuja/two-ways-3.webp" alt="Two ways 3" style="width: 30%; height: 20%" />
 </p>
 
 It's important to keep an eye for the signs placed by forest department on various trees, lest you want to get lost in the beautiful woods.
@@ -99,8 +99,8 @@ At one point, I took a halt at a two-way and just stared into the woods. Without
 Forest kept getting denser and more beautiful. We came across multiple fallen trees. Some were covered with moss, some with mushrooms 🍄‍🟫.
 
 <p align="center">
-<img src="/rss-images/blogs/non-tech/2026/ettina-bhuja-hike/moss-on-tree.webp" alt="Tree with moss overgrowth" style="width: 30%; height: 20%" />
-<img src="/rss-images/blogs/non-tech/2026/ettina-bhuja-hike/mushroom-tree.webp" alt="Tree with mushroom overgrowth" style="width: 30%; height: 20%" />
+<img src="https://images.fknil.com/blogs/ettina-bhuja/moss-on-tree.webp" alt="Tree with moss overgrowth" style="width: 30%; height: 20%" />
+<img src="https://images.fknil.com/blogs/ettina-bhuja/mushroom-tree.webp" alt="Tree with mushroom overgrowth" style="width: 30%; height: 20%" />
 </p>
 
 I LOVED this mushroom overgrowth. I guess technically they are growing on a dead tree as a fungus, or maybe tree died because of mushroom overgrowth? I am just blabbering here like it is my personal weeknote. I should have asked these questions right then and there cause I was doing my hike with a bunch of environmentalists. This bunch was serious enough to do a PhD in it! Well, in my defence I was lost looking at these mushrooms from different angles 😂.
@@ -116,13 +116,13 @@ Up ahead we started getting a glimpse of surrounding mountain peaks except the p
 We looked back at the forest we just crossed, and could spot the base camp and temple easily.
 
 <p align="center">
-<img src="/rss-images/blogs/non-tech/2026/ettina-bhuja-hike/look-back-from-grassland.webp" alt="Looking back from the grasslands, base camp and temple in the distance" style="width: 30%; height: 20%" />
+<img src="https://images.fknil.com/blogs/ettina-bhuja/look-back-from-grassland.webp" alt="Looking back from the grasslands, base camp and temple in the distance" style="width: 30%; height: 20%" />
 </p>
 
 We also saw a SUPER HUGE blue and black pattern butterfly here, it was SO BEAUTIFUL 🦋. I have never seen a butterfly with those vibrant colours and the bonkers size before. All of us were mesmerised and spent a lot of time trying to get it on camera. Sadly, the insect seemed to be camera-shy.
 
 <p align="center">
-<img src="/rss-images/blogs/non-tech/2026/ettina-bhuja-hike/lone-tree.webp" alt="Lone Tree" style="width: 30%; height: 20%" />
+<img src="https://images.fknil.com/blogs/ettina-bhuja/lone-tree.webp" alt="Lone Tree" style="width: 30%; height: 20%" />
 </p>
 
 One advice I would give to hikers: take some rest here, do not rush off to the next section. It's better to catch your breath, re-hydrate and then move forward cause in the next section, you are going to be doing some rock climbing. 🧗
@@ -132,15 +132,15 @@ One advice I would give to hikers: take some rest here, do not rush off to the n
 This will be the riskiest and most tiring section of the whole hike. It's a super steep section sitting at around 70-80 degrees. Terrain suddenly changes from small grass to all rocks around. And to get to the top, you have to climb these rocks. You better have good shoes if you are climbing here in monsoon. One slip and you will touch the heights of the heaven.
 
 <p align="center">
-<img src="/rss-images/blogs/non-tech/2026/ettina-bhuja-hike/rocks-1.webp" alt="Rocky section" style="width: 30%; height: 20%" />
-<img src="/rss-images/blogs/non-tech/2026/ettina-bhuja-hike/rocks-2.webp" alt="Rocky section" style="width: 30%; height: 20%" />
-<img src="/rss-images/blogs/non-tech/2026/ettina-bhuja-hike/rocks-3.webp" alt="Rocky section" style="width: 30%; height: 20%" />
+<img src="https://images.fknil.com/blogs/ettina-bhuja/rocks-1.webp" alt="Rocky section" style="width: 30%; height: 20%" />
+<img src="https://images.fknil.com/blogs/ettina-bhuja/rocks-2.webp" alt="Rocky section" style="width: 30%; height: 20%" />
+<img src="https://images.fknil.com/blogs/ettina-bhuja/rocks-3.webp" alt="Rocky section" style="width: 30%; height: 20%" />
 </p>
 
 I was the one to take lead here. With all my rock climbing experience, I carefully guided and supported my friends to cross this section. Btw, do remember to look back at the grassland from above, it looks beautiful `:)`.
 
 <p align="center">
-<img src="/rss-images/blogs/non-tech/2026/ettina-bhuja-hike/look-back-from-rocks.webp" alt="Look back from rocks" style="width: 30%; height: 20%" />
+<img src="https://images.fknil.com/blogs/ettina-bhuja/look-back-from-rocks.webp" alt="Look back from rocks" style="width: 30%; height: 20%" />
 </p>
 
 ## Top
@@ -148,7 +148,7 @@ I was the one to take lead here. With all my rock climbing experience, I careful
 This gruelling and slow climb rewards you with a soul healing experience. THE TOP.
 
 <p align="center">
-<img src="/rss-images/blogs/non-tech/2026/ettina-bhuja-hike/wanderlust.webp" alt="Wanderlust style man photo" style="width: 30%; height: 20%" />
+<img src="https://images.fknil.com/blogs/ettina-bhuja/wanderlust.webp" alt="Wanderlust style man photo" style="width: 30%; height: 20%" />
 </p>
 
 Doesn't this photo give vibes of the painting where a man is standing on a hill top with a cane looking over the mountain range?
@@ -168,13 +168,13 @@ I wished we could stay there for longer, but even I had "miles to go before I sl
 There were a lot of lovely flowers all over the trail. Sadly, I only thought about taking their photos much later in the hike. I photographed only a few, but they are beautiful 🌸. Especially these purple ones, they were all over the mountains!
 
 <p align="center">
-<img src="/rss-images/blogs/non-tech/2026/ettina-bhuja-hike/flowers-1.webp" alt="Flowers" style="width: 30%; height: 20%" />
-<img src="/rss-images/blogs/non-tech/2026/ettina-bhuja-hike/flowers-2.webp" alt="Flowers" style="width: 30%; height: 20%" />
+<img src="https://images.fknil.com/blogs/ettina-bhuja/flowers-1.webp" alt="Flowers" style="width: 30%; height: 20%" />
+<img src="https://images.fknil.com/blogs/ettina-bhuja/flowers-2.webp" alt="Flowers" style="width: 30%; height: 20%" />
 </p>
 
 <p align="center">
-<img src="/rss-images/blogs/non-tech/2026/ettina-bhuja-hike/flowers-3.webp" alt="Flowers" style="width: 30%; height: 20%" />
-<img src="/rss-images/blogs/non-tech/2026/ettina-bhuja-hike/flowers-4.webp" alt="Flowers" style="width: 30%; height: 20%" />
+<img src="https://images.fknil.com/blogs/ettina-bhuja/flowers-3.webp" alt="Flowers" style="width: 30%; height: 20%" />
+<img src="https://images.fknil.com/blogs/ettina-bhuja/flowers-4.webp" alt="Flowers" style="width: 30%; height: 20%" />
 </p>
 
 # Pre Hike

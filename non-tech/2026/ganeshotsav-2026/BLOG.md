@@ -13,75 +13,75 @@ During this festival, devotees all over India create [pandals](https://en.wikipe
 This photoblog is a collection of few of the pandals I liked where photography was allowed:
 
 <p align="center">
-<img src="/rss-images/blogs/non-tech/2026/ganeshotsav-2026/2.webp" alt="Ganesha statue in a pandal" style="width: 30%; height: 20%" />
+<img src="https://images.fknil.com/blogs/ganeshotsav-2026/2.webp" alt="Ganesha statue in a pandal" style="width: 30%; height: 20%" />
 </p>
 
 <p align="center">
-<img src="/rss-images/blogs/non-tech/2026/ganeshotsav-2026/3.webp" alt="Ganesha statue in a pandal" style="width: 30%; height: 20%" />
+<img src="https://images.fknil.com/blogs/ganeshotsav-2026/3.webp" alt="Ganesha statue in a pandal" style="width: 30%; height: 20%" />
 </p>
 
 <p align="center">
-<img src="/rss-images/blogs/non-tech/2026/ganeshotsav-2026/4.webp" alt="Ganesha statue in a pandal" style="width: 30%; height: 20%" />
+<img src="https://images.fknil.com/blogs/ganeshotsav-2026/4.webp" alt="Ganesha statue in a pandal" style="width: 30%; height: 20%" />
 </p>
 
 <p align="center">
-<img src="/rss-images/blogs/non-tech/2026/ganeshotsav-2026/5.webp" alt="Ganesha statue in a pandal" style="width: 30%; height: 20%" />
+<img src="https://images.fknil.com/blogs/ganeshotsav-2026/5.webp" alt="Ganesha statue in a pandal" style="width: 30%; height: 20%" />
 </p>
 
 <p align="center">
-<img src="/rss-images/blogs/non-tech/2026/ganeshotsav-2026/6.webp" alt="Ganesha statue in a pandal" style="width: 30%; height: 20%" />
+<img src="https://images.fknil.com/blogs/ganeshotsav-2026/6.webp" alt="Ganesha statue in a pandal" style="width: 30%; height: 20%" />
 </p>
 
 <p align="center">
-<img src="/rss-images/blogs/non-tech/2026/ganeshotsav-2026/7.webp" alt="Ganesha statue in a pandal" style="width: 30%; height: 20%" />
+<img src="https://images.fknil.com/blogs/ganeshotsav-2026/7.webp" alt="Ganesha statue in a pandal" style="width: 30%; height: 20%" />
 </p>
 
 <p align="center">
-<img src="/rss-images/blogs/non-tech/2026/ganeshotsav-2026/8.webp" alt="Ganesha statue in a pandal" style="width: 30%; height: 20%" />
+<img src="https://images.fknil.com/blogs/ganeshotsav-2026/8.webp" alt="Ganesha statue in a pandal" style="width: 30%; height: 20%" />
 </p>
 
 <p align="center">
-<img src="/rss-images/blogs/non-tech/2026/ganeshotsav-2026/9.webp" alt="Ganesha statue in a pandal" style="width: 30%; height: 20%" />
+<img src="https://images.fknil.com/blogs/ganeshotsav-2026/9.webp" alt="Ganesha statue in a pandal" style="width: 30%; height: 20%" />
 </p>
 
 <p align="center">
-<img src="/rss-images/blogs/non-tech/2026/ganeshotsav-2026/10.webp" alt="Ganesha statue in a pandal" style="width: 30%; height: 20%" />
+<img src="https://images.fknil.com/blogs/ganeshotsav-2026/10.webp" alt="Ganesha statue in a pandal" style="width: 30%; height: 20%" />
 </p>
 
 <p align="center">
-<img src="/rss-images/blogs/non-tech/2026/ganeshotsav-2026/11.webp" alt="Ganesha statue in a pandal" style="width: 30%; height: 20%" />
+<img src="https://images.fknil.com/blogs/ganeshotsav-2026/11.webp" alt="Ganesha statue in a pandal" style="width: 30%; height: 20%" />
 </p>
 
 <p align="center">
-<img src="/rss-images/blogs/non-tech/2026/ganeshotsav-2026/12.webp" alt="Ganesha statue in a pandal" style="width: 30%; height: 20%" />
+<img src="https://images.fknil.com/blogs/ganeshotsav-2026/12.webp" alt="Ganesha statue in a pandal" style="width: 30%; height: 20%" />
 </p>
 
 <p align="center">
-<img src="/rss-images/blogs/non-tech/2026/ganeshotsav-2026/13.webp" alt="Ganesha statue in a pandal" style="width: 30%; height: 20%" />
+<img src="https://images.fknil.com/blogs/ganeshotsav-2026/13.webp" alt="Ganesha statue in a pandal" style="width: 30%; height: 20%" />
 </p>
 
 <p align="center">
-<img src="/rss-images/blogs/non-tech/2026/ganeshotsav-2026/14.webp" alt="Ganesha statue in a pandal" style="width: 30%; height: 20%" />
+<img src="https://images.fknil.com/blogs/ganeshotsav-2026/14.webp" alt="Ganesha statue in a pandal" style="width: 30%; height: 20%" />
 </p>
 
 <p align="center">
-<img src="/rss-images/blogs/non-tech/2026/ganeshotsav-2026/15.webp" alt="Ganesha statue in a pandal" style="width: 30%; height: 20%" />
+<img src="https://images.fknil.com/blogs/ganeshotsav-2026/15.webp" alt="Ganesha statue in a pandal" style="width: 30%; height: 20%" />
 </p>
 
 <p align="center">
-<img src="/rss-images/blogs/non-tech/2026/ganeshotsav-2026/16.webp" alt="Ganesha statue in a pandal" style="width: 30%; height: 20%" />
+<img src="https://images.fknil.com/blogs/ganeshotsav-2026/16.webp" alt="Ganesha statue in a pandal" style="width: 30%; height: 20%" />
 </p>
 
 <p align="center">
-<img src="/rss-images/blogs/non-tech/2026/ganeshotsav-2026/17.webp" alt="Ganesha statue in a pandal" style="width: 30%; height: 20%" />
+<img src="https://images.fknil.com/blogs/ganeshotsav-2026/17.webp" alt="Ganesha statue in a pandal" style="width: 30%; height: 20%" />
 </p>
 
 <p align="center">
-<img src="/rss-images/blogs/non-tech/2026/ganeshotsav-2026/18.webp" alt="Ganesha statue in a pandal" style="width: 30%; height: 20%" />
+<img src="https://images.fknil.com/blogs/ganeshotsav-2026/18.webp" alt="Ganesha statue in a pandal" style="width: 30%; height: 20%" />
 </p>
 
 <p align="center">
-<img src="/rss-images/blogs/non-tech/2026/ganeshotsav-2026/19.webp" alt="Ganesha statue in a pandal" style="width: 30%; height: 20%" />
+<img src="https://images.fknil.com/blogs/ganeshotsav-2026/19.webp" alt="Ganesha statue in a pandal" style="width: 30%; height: 20%" />
 </p>
 
 Outside a pandal, a Marathi band was performing. Their energy was super infectious. I was almost dancing the whole time. Look at their enthusiasm, endurance (they had already been performing for an hour) and coordination, it was super awesome!!

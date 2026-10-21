@@ -16,8 +16,8 @@ Promises. At their core they are born out of an evolutionary feature. One which 
 I did wake up late, but it seems some of my other friends were already up cause five new friends had joined us for second and third day!! As they got settled in, freshend up, satisfied their hunger, it was already past `7:30`. As we were late, I had a quick coffee and set out with everyone for climbing. We took the same path as yesterday, hiked up the hill, and crossed few peaks to land at a new area this time, named [Rishimukh Plateau](https://www.thecrag.com/en/climbing/india/hampi/area/411584895). This is a big plateau just besides Rishimukh peak and is home to iconic routes and boulders like [PyscoBloc](https://www.thecrag.com/en/climbing/india/hampi/route/1952102631), [TV Boulder](https://www.thecrag.com/en/climbing/india/hampi/area/411584895#n10783464156), [Shield](https://www.thecrag.com/en/climbing/india/hampi/area/411584895#n9058923090), etc etc. `Pshycobloc` is the same route I talked about in my last blog, my special flash!
 
 <p align="center">
-<img src="/rss-images/blogs/non-tech/2026/hampi-june-2026-day-2/temple-from-rishimukh-plateau.jpeg" alt="Temple from Rishimukh plateau" style="width: 30%; height: 20%" />
-<img src="/rss-images/blogs/non-tech/2026/hampi-june-2026-day-2/weird-rock-on-plateau.jpg" alt="Weird rock on Rishimukh plateau" style="width: 30%; height: 20%" />
+<img src="https://images.fknil.com/blogs/hampi-june-2026-day-2/temple-from-rishimukh-plateau.jpeg" alt="Temple from Rishimukh plateau" style="width: 30%; height: 20%" />
+<img src="https://images.fknil.com/blogs/hampi-june-2026-day-2/weird-rock-on-plateau.jpg" alt="Weird rock on Rishimukh plateau" style="width: 30%; height: 20%" />
 </p>
 
 ## Skin
@@ -33,8 +33,8 @@ For outdoors, this is even more important cause we are climbing super sharp rock
 Well as the customs, we _yapped_ (uhm uhm..I mean warmed up) and after some nice deep stretches, we started with few `5` and `6a` warmup routes. As I was only there for three days, I had decided to use this morning to grow some thicker skin. Now that I think about it, maybe it was just straight up stupid given my trip outline? But also I was tired from last night's session, so kinda makes sense? Well, back to the plateau, amongst new friends was a Spanish climber who has been living in India for 12 years. He is our friend and climbs in [Equilibirum Indiranagar](https://maps.app.goo.gl/ZDkyZVnszpjXnv3KA) all the time. He is super strong. You would see him flash level 6 indoors like it was a stroll in the park. This guy flashed `PsycoBloc`, and next one of my other friend sent it after a couple of tries. Now now, I was completely baited into trying the boulder. Just once, I told myself and got onto it! And well I got my ass whopped again.
 
 <p align="center">
-<img src="/rss-images/blogs/non-tech/2026/hampi-june-2026-day-2/me-on-psyco-bloc.jpeg" alt="Me attempting on psycobloc this season" style="width: 30%; height: 20%" />
-<img src="/rss-images/blogs/non-tech/2026/hampi-june-2026-day-2/resting-between-climbs-on-plateau.jpeg" alt="Resting between climbs on plateau" style="width: 30%; height: 20%" />
+<img src="https://images.fknil.com/blogs/hampi-june-2026-day-2/me-on-psyco-bloc.jpeg" alt="Me attempting on psycobloc this season" style="width: 30%; height: 20%" />
+<img src="https://images.fknil.com/blogs/hampi-june-2026-day-2/resting-between-climbs-on-plateau.jpeg" alt="Resting between climbs on plateau" style="width: 30%; height: 20%" />
 </p>
 
 I think this was my lowest point of the trip. I was completely shitting pants on a climb which I had done with ease just a few months back. I finally properly realized how weak I had turned after taking almost two months break due to my ankle injury. I decided at that time to climb with ease for the remaining trip. No pressure, cause I was nowhere near my prime. After a few hours of loitering around, we had sun right on top of us drinking all the energy out of us. Exclusive photo of the same is linked just below 😂 ([GluconD](https://www.youtube.com/watch?v=HMRcFS35Mv8) MY GOAT 🐐). With no GluconD around, we decided to hike down and rest for the long evening session. Or so we thought, one of the new friends had another experienced climber who knew about A LOT OF LINES. She started showing us around, and we got distracted looking at those beautiful lines, here we saw [Shield](https://www.thecrag.com/en/climbing/india/hampi/route/415844679), [Crimpy Piano](https://www.thecrag.com/en/climbing/india/hampi/route/415844580), [The Middle](https://www.thecrag.com/en/climbing/india/hampi/route/9078478005), [Indian Summer](https://www.thecrag.com/en/climbing/india/hampi/route/415841361) and loads more!! Path to `India Summer` from `Shield` had a cave, and it was covered in such lovely smell. There was Tulsi and lemon grass all around! I wish there was a way to record smell and link it digitally to reproduce, cause THAT SMELLED OUTDOORS!
@@ -58,8 +58,8 @@ By the time I had created hundreds of shapes from passing clouds it was evening 
 There is an open area, just before little cave, with loads of warmup boulders. We decided to warm up in this section. Some of my friends who had just come that day, decided to rest this session out, they also found an excuse in an amazing spot to stare at the sky. Sky was SO SO BEAUTIFUL. I had heard somewhere, a young boy's teacher had mentioned they should look at the sky more often, cause adults stop doing so. Well, living in Bengaluru, if you not looking at sky, then you really do have a busy and stressful life. Stay strong friend! But for other cheerful mortals, Hampi's sky was like 10X better than Bengalurus!
 
 <p align="center">
-<img src="/rss-images/blogs/non-tech/2026/hampi-june-2026-day-2/beautiful-sky-1.jpg" alt="Beautiful sky 1" style="width: 30%; height: 20%" />
-<img src="/rss-images/blogs/non-tech/2026/hampi-june-2026-day-2/beautiful-sky-2.jpg" alt="Beautiful sky 2" style="width: 30%; height: 20%" />
+<img src="https://images.fknil.com/blogs/hampi-june-2026-day-2/beautiful-sky-1.jpg" alt="Beautiful sky 1" style="width: 30%; height: 20%" />
+<img src="https://images.fknil.com/blogs/hampi-june-2026-day-2/beautiful-sky-2.jpg" alt="Beautiful sky 2" style="width: 30%; height: 20%" />
 </p>
 
 P.S. These are from my phone, thats why the sky looks very bad.
@@ -73,7 +73,7 @@ Few astute readers would have spotted rain in the last paragraph, well I also me
 Well I made it sound grim, but a bunch of friends know how to liven up any situtation. Soon all of the baggage was tucked and covered with pads in the middle of the shed. And music was ON! It almost felt like a disco dance floor! Headlamps and floodlights were repurposed as red lights, and at point their frequency of flicker led me to believe someone might get a seizure 😂. Everything seemed SO TRIPPY. We all sung and danced to the music and made most out of the moment.
 
 <p align="center">
-<img src="/rss-images/blogs/non-tech/2026/hampi-june-2026-day-2/red-light-under-shed.jpeg" alt="Main in red light under shed" style="width: 30%; height: 20%" />
+<img src="https://images.fknil.com/blogs/hampi-june-2026-day-2/red-light-under-shed.jpeg" alt="Main in red light under shed" style="width: 30%; height: 20%" />
 <iframe width="315" height="560" src="https://www.youtube-nocookie.com/embed/TIzZ4MKBmmU?mute=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </p>
 
@@ -90,7 +90,7 @@ We didn't know how long we would be stuck there, it didn't worry us, still every
 It felt weird cause we literally could not see a phone's flashlight away. And maybe because of this, WE HAD A LOT OF SLIPS. Thankfully we all survived and were down the hill without any major injuries.
 
 <p align="center">
-<img src="/rss-images/blogs/non-tech/2026/hampi-june-2026-day-2/finding-way-back-after-rain.jpeg" alt="Finding way back after rains" style="width: 30%; height: 20%" />
+<img src="https://images.fknil.com/blogs/hampi-june-2026-day-2/finding-way-back-after-rain.jpeg" alt="Finding way back after rains" style="width: 30%; height: 20%" />
 <iframe width="315" height="560" src="https://www.youtube-nocookie.com/embed/xrbhDMSYpKE?mute=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </p>
 

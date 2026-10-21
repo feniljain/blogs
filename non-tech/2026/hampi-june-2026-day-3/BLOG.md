@@ -47,9 +47,9 @@ Google had notified me about a very high chance of rain that evening and hence w
 While getting there we crossed a single man make shift bridge again, it was a good spot to actually enter the river cause there were wobbly slippery rocks to reach right in the middle of the river. I took a photo from here linked below. Looking at it feels like I am standing right in the middle of the river `xD`.
 
 <p align="center">
-<img src="/rss-images/blogs/non-tech/2026/hampi-june-2026-day-3/middle-of-river.webp" alt="Seeemingly standing in the middle of the river" style="width: 30%; height: 20%" />
-<img src="/rss-images/blogs/non-tech/2026/hampi-june-2026-day-3/petting-cat.webp" alt="Me petting cat" style="width: 30%; height: 20%" />
-<img src="/rss-images/blogs/non-tech/2026/hampi-june-2026-day-3/ducks-forming-love-shape.webp" alt="Swans/Ducks standing as if making heart shape with their necks" style="width: 30%; height: 20%" />
+<img src="https://images.fknil.com/blogs/hampi-june-2026-day-3/middle-of-river.webp" alt="Seeemingly standing in the middle of the river" style="width: 30%; height: 20%" />
+<img src="https://images.fknil.com/blogs/hampi-june-2026-day-3/petting-cat.webp" alt="Me petting cat" style="width: 30%; height: 20%" />
+<img src="https://images.fknil.com/blogs/hampi-june-2026-day-3/ducks-forming-love-shape.webp" alt="Swans/Ducks standing as if making heart shape with their necks" style="width: 30%; height: 20%" />
 </p>
 
 Along these banks were the ruins of an [ancient kingdom](https://en.wikipedia.org/wiki/Vijayanagara_Empire). I was literally standing in the middle of hills full of boulders, river beneath the feet, ruins to ponder upon, amazing breezes to soothe the soul and finally sunset time to get the perfect golden hour shower. THIS IS WHY I LOVE SPENDING TIME OUTSIDE!! My soul felt cleansed and I wanted to lie there forever.
@@ -80,7 +80,7 @@ Interestingly, I also skipped an assasination attempt. While teaching one of my 
 Some more goofing around and it was almost dark. We started to head back, but were held down by this beauty!! OH MANNNN, look at the color, look at the reflection, it looks beautiful in photo? Seeing it in person was just heavenly!
 
 <p align="center">
-<img src="/rss-images/blogs/non-tech/2026/hampi-june-2026-day-3/moon-reflecting-on-river.webp" alt="Moon reflecting on river" style="width: 30%; height: 20%" />
+<img src="https://images.fknil.com/blogs/hampi-june-2026-day-3/moon-reflecting-on-river.webp" alt="Moon reflecting on river" style="width: 30%; height: 20%" />
 </p>
 
 After glaring at it for some time, we went back to our home stay. Already feeling down, grumbling about everything ending so fast.
@@ -88,7 +88,7 @@ After glaring at it for some time, we went back to our home stay. Already feelin
 Everything feels even more beautiful with a lovely group to enjoy with, this was US! Thanks everyone! 🙇
 
 <p align="center">
-<img src="/rss-images/blogs/non-tech/2026/hampi-june-2026-day-3/group-photo.webp" alt="Group photo" style="width: 30%; height: 20%" />
+<img src="https://images.fknil.com/blogs/hampi-june-2026-day-3/group-photo.webp" alt="Group photo" style="width: 30%; height: 20%" />
 </p>
 
 It was a bittersweet feeling, but I am more excited than ever to return back to Hampi. I ABSOLUTELY LOVE SPENDING TIME OUTDOORS!

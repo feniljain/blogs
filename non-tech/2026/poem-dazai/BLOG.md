@@ -7,7 +7,7 @@ publishedOn: 2026-10-13
 lastEditedOn: 2026-10-13
 ---
 <p align="center">
-<img src="/rss-images/blogs/non-tech/2026/poem-dazai/sunset-on-mountains.webp" alt="Sunset on a remote mountain" style="width: 30%; height: 20%" />
+<img src="https://images.fknil.com/blogs/poem-dazai/sunset-on-mountains.webp" alt="Sunset on a remote mountain" style="width: 30%; height: 20%" />
 </p>
 
 <pre>
