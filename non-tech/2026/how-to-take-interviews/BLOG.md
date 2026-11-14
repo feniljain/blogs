@@ -26,3 +26,6 @@ lastEditedOn: 2026-08-01
 - Keep a question bank of general questions ready for each job role you would be hiring for.
 - How to give hints?
 - Enter an interview thinking you want to hire the person by default.
+- What does it mean to take an interview in this era? What properties are you looking for? Is it just vibe hiring?
+
+- https://x.com/arpit_bhayani/status/2118702665337348405
