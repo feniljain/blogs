@@ -8,6 +8,8 @@ lastEditedOn: 2026-10-25
 ---
 - Inspired from: https://blog.skaup.co/why-i-write.html
 - Oxide and Friends's Rigor in the Age of LLM's quote about practicing writing a LOT!
+- https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/why-i-write/
+- https://www.baldurbjarnason.com/2026/machine-writing-is-ash/
 
 My reasons:
 
