@@ -6,7 +6,6 @@ title: Hampi Day 2
 publishedOn: 2026-07-11
 lastEditedOn: 2026-07-11
 ---
-
 I recently (26th-28th June 2026) went on a three day climbing trip to Hampi and this is my day to day log of a small set of things that happened. Find day 1 [here](/blog/hampi-june-2026-day-1/). Onto day 2:
 
 Promises. At their core they are born out of an evolutionary feature. One which helped us grow stronger. Which helped us stay in tight knit packs and rise higher in the natural hierarchy. Its a feature called trust. At its core, promises are based on trust. If you introduce a constraint which makes a person compelled to do something in the name of promise, that's not a promise, that's an order. Promises are mutual agreements based on trust. Trust is difficult to form and even harder to maintain. Broken trust can sever relationships permanently and leave one down the spiral of sorrow. Well, we had made a promise to wake up at 6 o clock in morning, and...that didn't happen. We all slept through till `07:00`-`07:30`. (I am not hurt by it at all, just wanted to sound profound 😛).

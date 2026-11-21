@@ -27,5 +27,6 @@ lastEditedOn: 2026-08-01
 - How to give hints?
 - Enter an interview thinking you want to hire the person by default.
 - What does it mean to take an interview in this era? What properties are you looking for? Is it just vibe hiring?
+- Do not give super big tasks which candidates need to spend a lot of time into even before the first interview.
 
 - https://x.com/arpit_bhayani/status/2118702665337348405

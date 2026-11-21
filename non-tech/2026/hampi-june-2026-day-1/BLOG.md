@@ -6,7 +6,6 @@ title: Hampi Day 1
 publishedOn: 2026-07-03
 lastEditedOn: 2026-07-03
 ---
-
 I recently (26th-28th June 2026) went on a three day climbing trip to Hampi. It wasn't enough for climbing, but definitely enough for healing my soul through and through. This is my day to day log of a small set of things that happened.
 
 On our first day, we arrived sleep deprived in [Hospete](https://maps.app.goo.gl/FuQuaQu5bLeR9aEU6) and took an auto to [Hanumanhalli](https://maps.app.goo.gl/X6ytwvY2SAPJiMYN6). Our abode was Mani's homestay (theres no maps link for it 🫠). It is a minimal 1980s style house with owning family living in a small part of the house, leaving four rooms open for lodging.
