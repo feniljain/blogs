@@ -35,7 +35,7 @@ I am usually not an outgoing person, but certain circumstances open the pathway 
 
 A heated start to the trip, definitely not a bad omen.
 
-## Ettina Bhuja!
+## Ettina Bhuja
 
 We found this interesting poster in the train:
 
@@ -55,28 +55,28 @@ We hadn't had any breakfast in the morning and after the worst coffee, we needed
 
 TODO: cream bun photo
 
-Our next order of business was figuring out where to go. As nothing was planned we could go to Udupi or Mangalore either. Worst part, we kept swinging between both options. None of us was able to decided what to do 😭. Best potential tie breaker was going to be, us finding an accommodation in Ram Krishna Muth (TODO: correct name place) in Udupi. Sadly, even that was full. In the end, we played choose-a-finger game and boarded a bus to Mangalore! We were yet to figure out the accommodation yet though.
-
-- Sakelshpur
-	- Haggling with auto drivers
-	- Blog about trek
-	- walked till the bus station
-- Back from trek
-	- coffee at one spot
-	- lunch at a spot, set dosa
-	- cream bun
+Our next order of business was figuring out where to go. As nothing was planned we could go to Udupi or Mangalore either. Worst part, we kept swinging between both options. None of us was able to decided what to do 😭. Best potential tie breaker was going to be us finding an accommodation in Ram Krishna Muth (TODO: correct name place) in Udupi. Sadly, even that was full. In the end, we played choose-a-finger game and boarded a bus to Mangalore! We were yet to figure out the accommodation yet though.
 
 ## Let us in
 
+So in the initial bus ride, we opened maps, searched for all the hotels available and started calling all of them. We might have called around 20-30 hotels and none had any rooms available! At this point it was setting on us that we might be in a hairy situation regarding accommodation. We should not have underestimated the long weekend. We finally decided to give up on calling and rely on auto drivers to take us to different hotels they have tie up with. Maybe all we need is an inside agent which takes some commission but gets the job done.
+
+We reached Mangalore around `21:00` PM and instantly started talking to hotels immediately nearby the bus stand which were not listed on google maps. None had any rooms left. My friend was checking up for hotels on `MakeMyTrip` and one of the owners was responding very positively. In desperation, we decided to go to the rough location provided by the map and try to locate this guest house ourselves. We were close to the guest house and owner was responding nicely, this would work out for sure, right? right? When we finally got the contact of the owner and were about to tell him that we are ready to check in, he cancelled the booking 😭.
+
+Okay, now our only hopes are auto drivers. My Messiah. We found a guy and asked him to show us hotels nearby. He drove us ~2km to the center of the city at a hotel he had tie up with. Guess what? That was FULL too! Fuck this shit. At this point, Rakesh was half panicking. We started walking along side the road, and my eyes laid upon a rusty board advertising a hotel. We realized the building we were looking at had few floors converted into hotel. We entered the shady basement, ready to make the deal with the devil.
+
 TODO: man shouting at white house fence to let him in
 
-- Missed a bus, were regretting it but immediately got another one. Called a LOT of hotels, all were full.
-	- Krishna Mutt didn't work out
-- Reached Mangalore, instantly search for a hotel started.
-- Went to a couple of places, walked around a lot
-- Rickshaw guy took to a place, still expensive.
-- Entered a shady looking hotel, he said he only had a suite AC room. Took us to show that and offered an AC Room. Asked me price. I gave a reasonable answer, should have tired to haggle more. But whatever, hotel sorted!
+Guess what? This was FULL too! Or so he said. So this is where it gets interesting and something I have learnt about from this experience. Mid-tier hotels will always say there are no empty rooms during rush timings. But if you insist enough and walk with one of the employees to see a room at higher rates/higher grade, he might sneakily offer you a deal. In our case, receptionist said he only had expensive "suite" available. We walked with doorman to see the room and as soon as we entered the suite, he offered us an AC room on the same floor! My Real Messiah!
+
+He asked us the price and I didn't want to lose this opportunity, so I quoted a slightly higher rate. In hindsight, I could have haggled and received the room for a much lower price. Lessons learnt.
+
+And hence, we finally found a temporary place to call home sweet home for the upcoming two days.
 
 ## Shake dat
 
-- We went for a shake at `Shake Factory`. Ordered some fries on the side, THEY WERE A LOT!! `Nutty chocolate` and `Cream & Cookies` shake was delicious.
+We all freshened up and were ready to have some dinner. Rakesh was somehow hungry enough that he wanted to have a complete Biryani! I cannot complete a full serving of Biryani even on the best of my days. Me and Soumyadeep weren't as hungry. We decided to have a small shake and few fries at a nearby cafe called `Shake Factory`. We ordered `Nutty chocolate` and `Cream & Coookies` shake along side some loaded french fries.
+
+Shakes were fantabulous. And the fries, oh boy they were loaded. Not just with toppings, but in quantity too 😭. Me and Soumyadeep together barely completed the combo. We were so full, we had to take a 3-4 km walk around the city to feel better. At least this place isn't an active participant of shrinkflation yet `:)`.
+
+Loads of movement plus awesome food. Perfect recipe for deep sound sleep.
