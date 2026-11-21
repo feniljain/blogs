@@ -56,7 +56,7 @@ Pack everything in a jar and leave it in the fridge overnight. On the side, take
 Next morning, empty the jar in a nice bowl and add the soaked basil seeds to it. Voila, we are done 🎉.
 
 <p align="center">
-<img src="https://images.fknil.com/blogs/super-breakfast/final-product.webp" alt="Itadakimasu" style="width: 30%; height: 20%" />
+<img src="https://images.fknil.com/blogs/super-breakfast/final-product.webp" alt="Itadakimasu" />
 </p>
 
 I know these photos are bad, but that's all I have right now 🙈. Maybe in my next incarnation, I'll wake up a better food blogger `:P`.
