@@ -6,8 +6,6 @@ title: Super Breakfast
 publishedOn: 2026-11-14
 lastEditedOn: 2026-11-14
 ---
-# Super Breakfast
-
 This blog is about a simple recipe which is super close to my heart.
 
 Imagine this: you wake up on a Sunday morning starving for some good, healthy food. You have a long day ahead. First, you need to go and climb. A session can range anywhere from 5-6 hours to 10-12 hours depending on the day and mood. You'll' skip lunch cause lunch time would be just after you complete your warm-up. And regardless, you can't climb after having lunch. Your next meal you are going to have is at `21:00`. You need energy to climb whole day and sustain till the evening!
@@ -50,7 +48,7 @@ Add one tablespoon of honey to it and make sure this to mix it thoroughly too. N
 Next up, we have our beloved fruits! The biggest complaint I have heard here is about bananas, some people hate how overpowering their taste is in milk. Personally, I love it. My go-to combination is half a banana, a few diced slices of apples and two or three blueberries. I stay conservative on blueberry side cause I find their taste overpowering and kinda yucky when there are too many of them in milk.
 
 <p align="center">
-<img src="https://images.fknil.com/blogs/super-breakfast/in-the-jar.webp" alt="All of the ingredients in a jar" style="width: 30%; height: 20%" />
+<img src="https://images.fknil.com/blogs/super-breakfast/in-the-jar.webp" alt="All of the ingredients in a jar" />
 </p>
 
 Pack everything in a jar and leave it in the fridge overnight. On the side, take a tablespoon of basil seeds and add just enough water to it. It should be just enough for basil seeds to soak it all up and become their evolved(?) version. Anything less, and they taste super weird. Anything more, and it dilutes the bowl wayyy too much. I have started using strainers recently to escape this measurement hell.
@@ -58,7 +56,7 @@ Pack everything in a jar and leave it in the fridge overnight. On the side, take
 Next morning, empty the jar in a nice bowl and add the soaked basil seeds to it. Voila, we are done 🎉.
 
 <p align="center">
-<img src="https://images.fknil.com/blogs/super-breakfast/final-product.webp" alt="Itadakimasu" style="width: 30%; height: 20%" />
+<img src="https://images.fknil.com/blogs/super-breakfast/final-product.webp" alt="Itadakimasu" />
 </p>
 
 I know these photos are bad, but that's all I have right now 🙈. Maybe in my next incarnation, I'll wake up a better food blogger `:P`.

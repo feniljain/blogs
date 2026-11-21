@@ -1,13 +1,13 @@
 ---
 tech: false
 draft: false
-slug: 'poem-joy-of-a-send'
-title: 'Joy of a send'
-publishedOn: '2026-06-30'
-lastEditedOn: '2026-06-30'
+slug: poem-joy-of-a-send
+title: Poem Joy of a send
+publishedOn: 2026-06-30
+lastEditedOn: 2026-06-30
 ---
 <p align="center">
-<img src="https://images.fknil.com/blogs/poem-joy-of-a-send/under-stars-in-front-of-boulder.jpg" alt="Me sitting under stars in front of a boulder getting ready to climb it" style="width: 30%; height: 20%" />
+<img src="https://images.fknil.com/blogs/poem-joy-of-a-send/under-stars-in-front-of-boulder.jpg" alt="Me sitting under stars in front of a boulder getting ready to climb it" />
 </p>
 
 Preface: In climbing lingo, sending a project means completing a route you were working on as a project.
