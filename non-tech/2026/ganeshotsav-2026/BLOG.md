@@ -87,6 +87,6 @@ This photoblog is a collection of few of the pandals I liked where photography w
 Outside a pandal, a Marathi band was performing. Their energy was super infectious. I was almost dancing the whole time. Look at their enthusiasm, endurance (they had already been performing for an hour) and coordination, it was super awesome!!
 
 <p align="center">
-<iframe width="315" height="560" src="https://www.youtube-nocookie.com/embed/nnRIRYrwbPY?mute=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe src="https://www.youtube-nocookie.com/embed/nnRIRYrwbPY?mute=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </p>
 

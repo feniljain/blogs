@@ -27,7 +27,7 @@ Next up, we tried a `6b+` called "[Cracky](https://thetopo.com/crags/hampi/route
 One could take right or left side of the [crack](https://www.climbgrades.com/BoulderingDefinitions/crack-style) to climb. As no one was making progress on the left side, I tried a beta on the right side. Here I was able to reach an almost [top out](https://www.climbgrades.com/BoulderingDefinitions/topout-top-out)!! But unfortunately rock on the right side had no feature for top out.
 
 <p align="center">
-<iframe width="315" height="560" src="https://www.youtube-nocookie.com/embed/PGX7mmeSOoo?mute=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe src="https://www.youtube-nocookie.com/embed/PGX7mmeSOoo?mute=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </p>
 
 This video shows the try when I figured out top out wasn't possible from the right side `:(`.
@@ -55,7 +55,7 @@ While getting there we crossed a single man make shift bridge again, it was a go
 Along these banks were the ruins of an [ancient kingdom](https://en.wikipedia.org/wiki/Vijayanagara_Empire). I was literally standing in the middle of hills full of boulders, river beneath the feet, ruins to ponder upon, amazing breezes to soothe the soul and finally sunset time to get the perfect golden hour shower. THIS IS WHY I LOVE SPENDING TIME OUTSIDE!! My soul felt cleansed and I wanted to lie there forever.
 
 <p align="center">
-<iframe width="315" height="560" src="https://www.youtube-nocookie.com/embed/yW7R8vIoi60?mute=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe src="https://www.youtube-nocookie.com/embed/yW7R8vIoi60?mute=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </p>
 
 We experienced two interesting animal acts here:
@@ -68,13 +68,13 @@ We experienced two interesting animal acts here:
 Next, we did another must do river-bank activity, SKIPPING STONES 🪨. I am not very good at getting enough hops, but I absolutely love doing it! Here is a video of me skipping one.
 
 <p align="center">
-<iframe width="315" height="560" src="https://www.youtube-nocookie.com/embed/AUMxBLY2Zb0?mute=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe src="https://www.youtube-nocookie.com/embed/AUMxBLY2Zb0?mute=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </p>
 
 Interestingly, I also skipped an assasination attempt. While teaching one of my friends how to throw stones with power and technique, he threw it in a weird way and the stone narrowly escaped my chest 💀.
 
 <p align="center">
-<iframe width="315" height="560" src="https://www.youtube-nocookie.com/embed/KDcMtpUby4M?mute=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe src="https://www.youtube-nocookie.com/embed/KDcMtpUby4M?mute=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </p>
 
 Some more goofing around and it was almost dark. We started to head back, but were held down by this beauty!! OH MANNNN, look at the color, look at the reflection, it looks beautiful in photo? Seeing it in person was just heavenly!

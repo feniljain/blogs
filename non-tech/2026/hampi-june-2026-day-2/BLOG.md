@@ -73,13 +73,13 @@ Well I made it sound grim, but a bunch of friends know how to liven up any situt
 
 <p align="center">
 <img src="https://images.fknil.com/blogs/hampi-june-2026-day-2/red-light-under-shed.jpeg" alt="Main in red light under shed" />
-<iframe width="315" height="560" src="https://www.youtube-nocookie.com/embed/TIzZ4MKBmmU?mute=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe src="https://www.youtube-nocookie.com/embed/TIzZ4MKBmmU?mute=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </p>
 
 Few songs in, a part of the group realized they were now standing in foot deep water on open side of the shed, it was raining pretty heavily and this shed had poor water management `:(`. One of my friend was looking into the water with his headlamp on, and I noticed he accidentally created vibrant strands of water reflected on the roof of the shed. As the rain contributed more to the pool, we kept seeing interesting patterns. Small disturbance causing whole fabric to spring up in a seemingly random, but globally coherent dance. It was like our own planetarium at home. VIBES WERE IMMACULATE!! A good rain would cause a generation older to think about Chai and Pakoda, but newer ones think of ciggs and grass. To my surpise, someone actually carried all of the material up and was already rolling up a joint 🚬. Smokers are very dedicated people I learnt that day! And with the joint they made the vibes literally HIGH `xD`.
 
 <p align="center">
-<iframe width="315" height="560" src="https://www.youtube-nocookie.com/embed/T6YnWrDfUVk?mute=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe src="https://www.youtube-nocookie.com/embed/T6YnWrDfUVk?mute=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </p>
 
 ## Firefly
@@ -90,7 +90,7 @@ It felt weird cause we literally could not see a phone's flashlight away. And ma
 
 <p align="center">
 <img src="https://images.fknil.com/blogs/hampi-june-2026-day-2/finding-way-back-after-rain.jpeg" alt="Finding way back after rains" />
-<iframe width="315" height="560" src="https://www.youtube-nocookie.com/embed/xrbhDMSYpKE?mute=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe src="https://www.youtube-nocookie.com/embed/xrbhDMSYpKE?mute=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </p>
 
 Once we reached the river bank, I had another "first" experience of my life. I saw a Firefly!! Unforuntately, there was only one 😓. All of us sat there for a couple of minutes watching it do its delicate dance, swinging with the breeze all over the river, until it went near a bush and disappeared!?. We are almost 100% sure some toad/frog ate it 😭. I get it minecraft, I get why you removed the feature of frogs eating firefly. DON'T SPOIL THE ATOMSPHERE. (They actually removed cause fireflies can be toxic to frogs, but hey go with my story for now!!).

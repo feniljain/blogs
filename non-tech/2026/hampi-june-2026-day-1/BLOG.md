@@ -23,7 +23,7 @@ Besides its historical significance, this is also a boulder heaven! This path up
 River in this section was pretty narrow and small, with loads of super shiny rocks. This shine is SO weird, they almost look like plastic under sunlight. On [reading](https://youtu.be/eAypgtLbvxI?si=l5-ertgqS1NJkXJ7&t=137) up a bit more, it seems like this is because of their composition of quartz, feldspar and mica minerals, very very interesting. As there were more rocks than river in this particular area, people have placed one man walk stones to cross it. We crossed this section to enter a small foresty line which is your average foot hill. But after that comes one of my most favorite sections. A walk through elevated trails amidst paddy fields. There's a super narrow one person path crossing all these fields. In the day, one can enjoy the view of these fields plus forest around. In the night, it becomes an orchestra of toads and crickets, all singing on top of their lungs to create what I have started calling: "Climbers Remix" presented by our very own supertalented, super duper experienced and god of all music: "nature".
 
 <p align="center">
-<iframe width="315" height="560" src="https://www.youtube-nocookie.com/embed/TbAQ_bNwRUQ?mute=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe src="https://www.youtube-nocookie.com/embed/TbAQ_bNwRUQ?mute=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </p>
 
 Seems too ordinary to like this setting? I think anime has taught me to love this, I really like those small village slice of life animes where protoganist(s) are also walking through the fields, listening to cicadas screaming, exactly the same as the scenario above :)
@@ -67,7 +67,7 @@ While we tried `Scoop`, it was already dark, so we got our floodlights and headl
 And as if whole world was conspiring to make this moment better, I found my first outdoor project. Its named "Physics" graded `6b+` (75 in the photo). On my last Hampi trip, I had [flashed](https://www.climbgrades.com/BoulderingDefinitions/flash) a `6b+` called "PsychoBloc". `6b+` as a grade is not as easy as people would assume, but depending on style (crimpy, slabby, slopy, overhung, etc) a person generally doing `6b+` indoors might or might not be able to do it outdoors. Luckily, `PhyschoBloc` was overhung and crimpy and heal hook centric, perfect for my style :)
 
 <p align="center">
-<iframe width="315" height="560" src="https://www.youtube-nocookie.com/embed/epawVCzG5fU?mute=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe src="https://www.youtube-nocookie.com/embed/epawVCzG5fU?mute=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </p>
 
 P.S. I was thinking it was not a flash when doing it, but it actually was `xD`
