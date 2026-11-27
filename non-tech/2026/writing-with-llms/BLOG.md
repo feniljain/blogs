@@ -18,8 +18,8 @@ Use these points to critique the writing:
   • Accidental errors: Catch typos, missing articles, and tense changes that distract from the story.
   • Tone: Flag wording that may sound stronger than you intend, while leaving the call to soften it to you.
 
-  
 
-  
+
+
 
 - codex resume 01a0e91c-495a-7862-961a-eeffd67469a0
