@@ -6,7 +6,6 @@ title: Ettina Bhuja Hike
 publishedOn: 2026-10-23
 lastEditedOn: 2026-10-23
 ---
-
 <p align="center">
 <img src="https://images.fknil.com/blogs/ettina-bhuja/hull-from-grassland.webp" alt="Ettina bhuja peak" />
 </p>
